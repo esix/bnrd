@@ -1,3 +1,20 @@
-# My Awesome Book
+# Большой нидерланско-русский словарь
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Около 180 000 слов и словосочетаний
+
+_издание 2-е, исправленное_
+
+Под руководством доктора филол. наук, С. А. МИРОНОВА
+
+МОСКВА
+
+"ЖИВОЙ ЯЗЫК"
+
+2002
+
+
+
+
+
+
+
