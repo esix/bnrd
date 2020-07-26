@@ -14,9 +14,6 @@ DIAERESIS \(umlaut\): ë Ë ï Ï ö Ö
 
 één
 
-  
-
-
 á Á á Á
 
 é É é É
@@ -33,9 +30,6 @@ DIAERESIS \(umlaut\): ë Ë ï Ï ö Ö
 
 ḯ Ḯ
 
-  
-
-
 DIAERESIS \(umlaut\) + ACCENT
 
 ë Ë Ë́ ë́ \(accent utf-8\)
@@ -48,17 +42,17 @@ macron: ēɛ̄
 
 è ê
 
-  
-
+---
 
 Russian
 
-и́ ы́ э́ ю́ я́
+é ó á ý и́ ы́ э́ ю́ я́
 
-  
-
+É Ó Á
 
 « »
+
+
 
 краткие: ʌ, ə, æ, i, e, o, u
 
@@ -73,7 +67,4 @@ Russian
 ′ штрих · middle dot
 
 ç
-
-  
-
 
