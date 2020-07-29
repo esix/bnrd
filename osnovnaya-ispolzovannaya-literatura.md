@@ -60,5 +60,21 @@ A. Weijnen. Spectrum Nederlands woordenboek. Utrecht/Antwerpen, 1974.
 
 C.B. van Haeringen. Kramers' Nederlands woordenboek. Amsterdam, 1982.
 
+Signalement van nieuwe woorden. Woordenboek van 2000 neologismen. Onder redactie van dr. Riemer Reinsma. Fmsterdam-Brussel, 1975.
 
+Stoett F.A. Nederlandse spreekwoorden en gezegden. 1974.
+
+Woordenboek der Nederlandsche taal. 's-Gravenhage en Leiden, 1864—1984.
+
+L. Brouwers. Het juiste woord. Antwerpen — Utrecht, 1973.
+
+Kramers' geïllustreerd Nederlands woordenboek. Amsterdam — Brussel, 1979.
+
+Nieuwe Winkler Prins Encyclopedie. In vier delen. Amterdam — Brussel, 1977.
+
+Bargoens woordenboek. Drs E.Endt. Amsterdam, 1972.
+
+van Goor's folkloristisch woordenboek. Door K. Ter Laan. Den Haag, 1974.
+
+Toorn M.C. van den. Nederlandse grammatics. Groningen, 1979.
 
