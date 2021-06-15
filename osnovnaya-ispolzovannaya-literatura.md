@@ -1,4 +1,4 @@
-## ОСНОВНАЯ ИСПОЛЬЗОВАННАЯ ЛИТЕРАТУРА
+# ОСНОВНАЯ ИСПОЛЬЗОВАННАЯ ЛИТЕРАТУРА
 
 Словарь русского языка. М., 1981—1984. Т. 1-4.
 
@@ -76,5 +76,5 @@ Bargoens woordenboek. Drs E.Endt. Amsterdam, 1972.
 
 van Goor's folkloristisch woordenboek. Door K. Ter Laan. Den Haag, 1974.
 
-Toorn M.C. van den. Nederlandse grammatics. Groningen, 1979.
+Toorn M.C. van den. Nederlandse grammatica. Groningen, 1979.
 
