@@ -7,6 +7,13 @@
 * [СПИСОК УСЛОВНЫХ СОКРАЩЕНИЙ](spisok-uslovnih-sokraschenii.md)
 * [НИДЕРЛАНДСКИЙ АЛФАВИТ](niderlandskii-alfavit.md)
 * [A](chapter1.md)
+
+## \_B
+
+* [69](_b/69.md)
+
+---
+
 * [Буквы](bukvi.md)
 
 ## СПИСОК ГЕОГРАФИЧЕСКИХ НАЗВАНИЙ
