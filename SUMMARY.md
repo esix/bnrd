@@ -24,3 +24,8 @@
 * [841](spisok-geograficheskikh-nazvanii/841.md)
 * [842](spisok-geograficheskikh-nazvanii/842.md)
 
+## КРАТКИЙ ГРАММАТИЧЕСКИЙ ОЧЕРК НИДЕРЛАНДСКОГО ЯЗЫКА
+
+* [867](kratkii-grammaticheskii-ocherk-niderlandskogo-yazyka/867.md)
+* [868](kratkii-grammaticheskii-ocherk-niderlandskogo-yazyka/868.md)
+
