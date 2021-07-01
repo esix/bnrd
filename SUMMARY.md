@@ -27,4 +27,6 @@
 ---
 
 * [КРАТКИЙ ГРАММАТИЧЕСКИЙ ОЧЕРК НИДЕРЛАНДСКОГО ЯЗЫКА](kratkii-grammaticheskii-ocherk-niderlandskogo-yazyka-1.md)
+* [900-912](900-912.md)
+* [913 Таблица сильных глаголов](913-tablica-silnykh-glagolov.md)
 
