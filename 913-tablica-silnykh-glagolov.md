@@ -63,16 +63,166 @@
 | houden | hield | hielden | gehouden |
 | houwen | hieuw | hieuwen | gehouwen |
 | jagen | jaagde \(joeg\) | jaagden \(joegen\) | gejaagd |
-
-**914**
-
-Инфинитив ед. ч. MH. 4. Причастие прошедшего времени kerven kiezen kijken kijven klimmen klinken kluiven knijpen komen kopen krijgen krijsen krijten krimpen kruipen kunnen kwijten lachen laden laten lezen liegen liggen lijden lopen lijken luiken malen melken meten mijden moeten mogen nemen nijgen nijpen ontginnen plegen pluizen prijsen raden rieken rijden rijgen rijten rijzen rinnen roepen ruiken scheiden schelden schenden schenken scheppen scheren schieten schijnen schijten schrijden korf \(kerfde\) koos keek keef klom klonk kloof kneep kwam kocht kreeg krijste \(krees\) kreet kromp kroop kon kweet lachte \(loech\) laadde liet las loog lag leed liep leek look maalde molk \(melkte\) mat meed moest mocht nam neeg neep ontgon placht ploos prees raadde \(ried\) rook reed reeg reet rees ron riep rook scheidde schold schond schonk schiep schoor schoot scheen scheet schreed korven \(kerfden\) kozen keken keven klommen klonken kloven knepen kwamen kochten kregen krijsten \(kresen\) kreten krompen kropen konden kweten lachten \(loechen\) laadden lieten lazen logen lagen leden liepen leken loken maalden molken \(melkten\) maten meden moesten mochten namen negen nepen ontgonnen plachten plozen prezen raadden \(rieden\) roken reden regen reten rezen ronnen riepen roken scheidden scholden schonden schonken schiepen schoren schoten schenen scheten schreden gekorven \(gekerfd\) gekozen gekeken gekeven geklommen geklonken gekloven geknepen gekomen gekocht gekregen gekrijst \(gekresen\) gekreten gekrompen gekropen gekund gekweten gelachen geladen gelaten gelezen gelogen gelegen geleden gelopen geleken geloken gemalen gemolken gemeten gemeden gemoeten gemogen \(gemoogd, gemocht\) genomen genegen genepen ontgonnen gepleegd geplozen geprezen geraden s geroken gereden geregen gereten gerezen geronnen geroepen geroken gescheiden gescholden geschonden geschonken geschapen geschoren geschoten geschenen gescheten geschreden
-
-**915**
-
-Инфинитив Прошедшее время Причастие прошедшего времени ед. ч. MH. 4. schrijven schrikken schuilen schuiven slaan slapen slijpen slijten slinken sluiken sluipen sluiten sme ten smijten snijden snuiten snuiven spannen spijten spinnen splijten spouwen spreken springen spruiten spugen spuiten staan steken stelen sterven stijgen stijven stinken stoten strijden strijken stuiven tijgen treden treffen trekken vallen vangen varen vechten verderven verdrieten verdwijnen vergeten verliezen verslinden verzwinden vinden vlechten vlieden vliegen vlieten vouwen vragen schreef schrok i schuille \(school\) schoof sloeg sliep sleep sleet slonk slook sloop sloot smolt smeet sneed snoot snoof spande speet spon spleet spouwde sprak sprong sproot spoog \(spuugde\) spoot stond stak stal stierf steeg steef stonk stootte \(stiet\) streed streek stoof toog trad trof trok viel ving voer vocht verdierf verdroot verdween vergat verloor verslond verzwond vond vlocht vlood vloog vloot vouwde vroeg \(vraagde\) schreven schrokken schuilden \(scholen\) schoven sloegen sliepen slepen sleten slonken sloken slopen sloten smolten smeten sneden snoten snoven spanden speten sponnen spleten spouwden spraken sprongen sproten spogen \(spuugden\) spoten stonden staken stalen stierven stegen steven stonken stootten \(stieten\) streden streken stoven togen traden troffen trokken vielen vingen voeren vochten verdierven verdroten verdwenen vergaten verloren verslonden verzwonden vonden vlochten vloden vlogen vloten vouwden vroegen \(vraagden\) geschreven geschrokken geschuild \(gescholen\) geschoven geslagen geslapen geslepen gesleten geslonken gesloken geslopen gesloten gesmolten gesmeten gesneden gesnoten gesnoven gespannen gespeten gesponnen gespleten gespouwen gesproken gesprongen gesproten gespogen \(gespuugd\) gespoten gestaan gestoken gestolen gestorven gestegen gesteven gestonken gestoten gestreden gestreken gestoven getogen getreden getroffen getrokken gevallen gevangen gevaren gevochten verdorven verdroten verdwenen vergeten verloren verslonden verzwonden gevonden gevlochten gevloden gevlogen gevloten gevouwen gevraagd
-
-**916**
-
-Инфинитив Прошедшее время Причастие прошедшего времени ед. ч. MH. 4. vreten vrat vraten gevreten vriezen vroor vroren gevroren waaien waaide \(woei\) waaiden \(woeien\) gewaaid wassen мыть waste \(wies\) wasten \(wiesen\) gewassen wassen расти wies wiesen gewassen wegen woog wogen gewogen werpen wierp wierpen geworpen werven wierf wierven geworven weten wist wisten geweten weven weefde weefden geweven wezen was waren geweest wijken week weken geweken wijten weet weten geweten wijzen wees wezen gewezen willen wilde \(wou\) wilden \(wouden\) gewild winden wond wonden gewonden winnen won wonnen gewonnen worden werd werden geworden wreken wreekte Wreekten gewroken wrijven wreef wreven gewreven wringen wrong wrongen gewrongen zeggen zei \(zegde\) zeiden \(zegden\) gezegd \(gezeid\) zenden zond zonden gezonden zieden ziedde ziedden gezoden zien zag zagen gezien zijgen zeeg zegen gezegen zijn was waren geweest zingen zong zongen gezongen zinken zonk zonken gezonken zinnen zon zonnen gezonnen zitten zat zaten gezeten zoeken zocht zochten gezocht zouten zoutte zoutten gezouten zuigen zoog zogen gezogen zuipen zoop zopen gezopen zullen zou\(de\) zouden — zwelgen zwolg zwolgen gezwolgen zwellen zwol zwollen gezwollen zwemmen zwom zwommen gezwommen zweren гноиться zwoor \(zweerde\) zworen \(zweerden\) gezworen zweren клясться zwoer zwoeren gezworen zwerven zwierf zwierven gezworven zwijgen zweeg zwegen gezwegen
+| kerven | korf \(kerfde\) | korven \(kerfden\) | gekorven \(gekerfd\)  |
+| kiezen | koos | kozen | gekozen |
+| kijken | keek | keken | gekeken |
+| kijven | keef | keven | gekeven |
+| klimmen | klom | klommen | geklommen |
+| klinken | klonk | klonken | geklonken |
+| kluiven | kloof | kloven | gekloven |
+| knijpen | kneep | knepen | geknepen |
+| komen | kwam | kwamen | gekomen |
+| kopen | kocht | kochten | gekocht |
+| krijgen | kreeg | kregen | gekregen |
+| krijsen | krijste \(krees\) | krijsten \(kresen\) | gekrijst \(gekresen\) |
+| krijten | kreet | kreten | gekreten |
+| krimpen | kromp | krompen | gekrompen |
+| kruipen | kroop | kropen | gekropen |
+| kunnen | kon | konden | gekund |
+| kwijten | kweet | kweten | gekweten |
+| lachen | lachte \(loech\) | lachten \(loechen\) | gelachen |
+| laden | laadde | laadden | geladen |
+| laten | liet | lieten | gelaten |
+| lezen | las | lazen | gelezen |
+| liegen | loog | logen | gelogen |
+| liggen | lag | lagen | gelegen |
+| lijden | leed | leden | geleden |
+| lopen | liep | liepen | gelopen |
+| lijken | leek | leken | geleken |
+| luiken | look | loken | geloken |
+| malen | maalde | maalden | gemalen |
+| melken | molk \(melkte\) | molken \(melkten\) | gemolken |
+| meten | mat | maten | gemeten |
+| mijden | meed | meden | gemeden |
+| moeten | moest | moesten | gemoeten |
+| mogen | mocht | mochten | gemogen \(gemoogd, gemocht\) |
+| nemen | nam | namen | genomen |
+| nijgen | neeg | negen | genegen |
+| nijpen | neep | nepen | genepen |
+| ontginnen | ontgon | ontgonnen | ontgonnen |
+| plegen | placht | plachten | gepleegd |
+| pluizen | ploos | plozen | geplozen |
+| prijsen | prees | prezen | geprezen |
+| raden | raadde \(ried\) | raadden \(rieden\) | geraden |
+| rieken | rook | roken | geroken |
+| rijden | reed | reden | gereden |
+| rijgen | reeg | regen | geregen |
+| rijten | reet | reten | gereten |
+| rijzen | rees | rezen | gerezen |
+| rinnen | ron | ronnen | geronnen |
+| roepen | riep | riepen | geroepen |
+| ruiken | rook | roken | geroken |
+| scheiden | scheidde | scheidden | gescheiden |
+| schelden | schold | scholden | gescholden |
+| schenden | schond | schonden | geschonden |
+| schenken | schonk | schonken | geschonken |
+| scheppen | schiep | schiepen | geschapen |
+| scheren | schoor | schoren | geschoren |
+| schieten | schoot | schoten | geschoten |
+| schijnen | scheen | schenen | geschenen |
+| schijten | scheet | scheten | gescheten |
+| schrijden | schreed | schreden | geschreden |
+| schrijven | schreef | schreven | geschreven |
+| schrikken | schrok | schrokken | geschrokken |
+| schuilen | schuille \(school\) | schuilden \(scholen\) | geschuild \(gescholen\) |
+| schuiven | schoof | schoven | geschoven |
+| slaan | sloeg | sloegen | geslagen |
+| slapen | sliep | sliepen | geslapen |
+| slijpen | sleep | slepen | geslepen |
+| slijten | sleet | sleten | gesleten |
+| slinken | slonk | slonken | geslonken |
+| sluiken | slook | sloken | gesloken |
+| sluipen | sloop | slopen | geslopen |
+| sluiten | sloot | sloten | gesloten |
+| smelten | smolt | smolten | gesmolten |
+| smijten | smeet | smeten | gesmeten |
+| snijden | sneed | sneden | gesneden |
+| snuiten | snoot | snoten | gesnoten |
+| snuiven | snoof | snoven | gesnoven |
+| spannen | spande | spanden | gespannen |
+| spijten | speet | speten | gespeten |
+| spinnen | spon | sponnen | gesponnen |
+| splijten | spleet | spleten | gespleten |
+| spouwen | spouwde | spouwden | gespouwen |
+| spreken | sprak | spraken | gesproken |
+| springen | sprong | sprongen | gesprongen |
+| spruiten | sproot | sproten | gesproten |
+| spugen | spoog \(spuugde\) | spogen \(spuugden\) | gespogen \(gespuugd\) |
+| spuiten | spoot | spoten | gespoten |
+| staan | stond | stonden | gestaan |
+| steken | stak | staken | gestoken |
+| stelen | stal | stalen | gestolen |
+| sterven | stierf | stierven | gestorven |
+| stijgen | steeg | stegen | gestegen |
+| stijven | steef | steven | gesteven |
+| stinken | stonk | stonken | gestonken |
+| stoten | stootte \(stiet\) | stootten \(stieten\) | gestoten |
+| strijden | streed | streden | gestreden |
+| strijken | streek | streken | gestreken |
+| stuiven | stoof | stoven | gestoven |
+| tijgen | toog | togen | getogen |
+| treden | trad | traden | getreden |
+| treffen | trof | troffen | getroffen |
+| trekken | trok | trokken | getrokken |
+| vallen | viel | vielen | gevallen |
+| vangen | ving | vingen | gevangen |
+| varen | voer | voeren | gevaren |
+| vechten | vocht | vochten | gevochten |
+| verderven | verdierf | verdierven | verdorven |
+| verdrieten | verdroot | verdroten | verdroten |
+| verdwijnen | verdween | verdwenen | verdwenen |
+| vergeten | vergat | vergaten | vergeten |
+| verliezen | verloor | verloren | verloren |
+| verslinden | verslond | verslonden | verslonden |
+| verzwinden | verzwond | verzwonden | verzwonden |
+| vinden | vond | vonden | gevonden |
+| vlechten | vlocht | vlochten | gevlochten |
+| vlieden | vlood | vloden | gevloden |
+| vliegen | vloog | vlogen | gevlogen |
+| vlieten | vloot | vloten | gevloten |
+| vouwen | vouwde | vouwden | gevouwen |
+| vragen | vroeg \(vraagde\) | vroegen \(vraagden\) | gevraagd |
+| vreten | vrat | vraten | gevreten |
+| vriezen | vroor | vroren | gevroren |
+| waaien | waaide \(woei\) | waaiden \(woeien\) | gewaaid |
+| wassen мыть  | waste \(wies\) | wasten \(wiesen\) | gewassen |
+| wassen расти | wies | wiesen | gewassen |
+| wegen | woog | wogen | gewogen |
+| werpen | wierp | wierpen | geworpen |
+| werven | wierf | wierven | geworven |
+| weten | wist | wisten | geweten |
+| weven | weefde | weefden | geweven |
+| wezen | was | waren | geweest |
+| wijken | week | weken | geweken |
+| wijten | weet | weten | geweten |
+| wijzen | wees | wezen | gewezen |
+| willen | wilde \(wou\) | wilden \(wouden\) | gewild |
+| winden | wond | wonden | gewonden |
+| winnen | won | wonnen | gewonnen |
+| worden | werd | werden | geworden |
+| wreken | wreekte | wreekten | gewroken |
+| wrijven | wreef | wreven | gewreven |
+| wringen | wrong | wrongen | gewrongen |
+| zeggen | zei \(zegde\) | zeiden \(zegden\) | gezegd \(gezeid\) |
+| zenden | zond | zonden | gezonden |
+| zieden | ziedde | ziedden | gezoden |
+| zien | zag | zagen | gezien |
+| zijgen | zeeg | zegen | gezegen |
+| zijn | was | waren | geweest |
+| zingen | zong | zongen | gezongen |
+| zinken | zonk | zonken | gezonken |
+| zinnen | zon | zonnen | gezonnen |
+| zitten | zat | zaten | gezeten |
+| zoeken | zocht | zochten | gezocht |
+| zouten | zoutte | zoutten | gezouten |
+| zuigen | zoog | zogen | gezogen |
+| zuipen | zoop | zopen | gezopen |
+| zullen | zou\(de\) | zouden | — |
+| zwelgen | zwolg | zwolgen | gezwolgen |
+| zwellen | zwol | zwollen | gezwollen |
+| zwemmen | zwom | zwommen | gezwommen |
+| zweren гноиться | zwoor \(zweerde\) | zworen \(zweerden\) | gezworen |
+| zweren клясться | zwoer | zwoeren | gezworen |
+| zwerven | zwierf | zwierven | gezworven |
+| zwijgen | zweeg | zwegen | gezwegen |
 
