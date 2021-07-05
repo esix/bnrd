@@ -27,6 +27,6 @@
 ---
 
 * [КРАТКИЙ ГРАММАТИЧЕСКИЙ ОЧЕРК НИДЕРЛАНДСКОГО ЯЗЫКА](kratkii-grammaticheskii-ocherk-niderlandskogo-yazyka-1.md)
-* [911-КРАТКИЕ СВЕДЕНИЯ ПО СЛОВОБРАЗОВАНИЮ](900-912.md)
+* [900 Прошедшее время](900-proshedshee-vremya.md)
 * [913 Таблица сильных глаголов](913-tablica-silnykh-glagolov.md)
 
