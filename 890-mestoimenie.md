@@ -39,194 +39,69 @@
   </tbody>
 </table>
 
-Эти формы личных местоимений употребляются в устной речи преимущественно под ударением. В беглой разговорной речи, особенно в неударном положении, преобладают редуцированные формы этих местоимений: ’k — \(ik\), je —\(jij\), ge — \(gij\), ie —\(hij\) \(в позиции после глагола\), ze —\(zij\), ’t — \(het\), we —\(wij\), ze —\(zij\).
+Эти формы личных местоимений употребляются в устной речи преимущественно под ударением. В беглой разговорной речи, особенно в неударном положении, преобладают редуцированные формы этих местоимений: **’k** — \(ik\), **je** —\(jij\), **ge** — \(gij\), **ie** —\(hij\) \(в позиции после глагола\), **ze** —\(zij\), **’t** — \(het\), **we** —\(wij\), **ze** —\(zij\).
 
 Все эти редуцированные формы зафиксированы в современной нидерландской орфографии и встречаются в разговорном стиле литературного языка.
 
-Формы 2-го лица единственного числа jij, je возникли в устно-разговорном языке как вариант старой письменно-литературной формы местоимения gij \(первоначально 2-е лицо множественного числа «вы»\) и закрепились в значении «ты», в противоположность более поздней вежливой форме U\(u\) — «вы»; формы gij, ge \(в значении «ты», «вы» единственного и множественного числа\) очень малоупотребительны в современном литературном языке. Они характерны главным образом для языка классической литературы и возвышенного стиля речи, а также для диалектально окрашенного языка Южных Нидерландов \(Бельгии\). Форма je встречается и во множественном числе \(«вы»\), однако здесь с ней конкурируют формы jullie и устаревшая форма jelui. Обе формы возникли из словосочетания jij lieden — ты + люди = вы.
+Формы 2-го лица единственного числа **jij**, **je** возникли в устно-разговорном языке как вариант старой письменно-литературной формы местоимения **gij** \(первоначально 2-е лицо множественного числа «вы»\) и закрепились в значении «ты», в противоположность более поздней вежливой форме **U\(u\)** — «вы»; формы **gij**, **ge** \(в значении «ты», «вы» единственного и множественного числа\) очень малоупотребительны в современном литературном языке. Они характерны главным образом для языка классической литературы и возвышенного стиля речи, а также для диалектально окрашенного языка Южных Нидерландов \(Бельгии\). Форма **je** встречается и во множественном числе \(«вы»\), однако здесь с ней конкурируют формы **jullie** и устаревшая форма **jelui**. Обе формы возникли из словосочетания jij lieden — ты + люди = вы.
 
-Употребление местоимений 3-го лица единственного числа в отношении названий лиц \(обоего пола\) находится в соответствии с естественным родом заменяемых ими существительных. Ср. даже в словах среднего рода: Het meisje kwam in de kamer. Zij \[het\] had een boek in de hand — Девочка вошла в комнату. Она держала в руках книгу.
+Употребление местоимений 3-го лица единственного числа в отношении названий лиц \(обоего пола\) находится в соответствии с естественным родом заменяемых ими существительных. Ср. даже в словах среднего рода: **Het** meisje kwam in de kamer. **Zij** \[het\] had een boek in de hand — Девочка вошла в комнату. Она держала в руках книгу.
 
-В отношении названий животных рода de употребление hij не всегда согласуется с естественным родом. Это местоимение может заменять также существительные, обозначающие животных женского пола.
+В отношении названий животных рода **de** употребление **hij** не всегда согласуется с естественным родом. Это местоимение может заменять также существительные, обозначающие животных женского пола.
 
-В отношении названий предметов в разговорном языке в Южных Нидерландах и в Бельгии употребление личных местоимений находится обычно в соответствии с их традиционным грамматическим родом. В Северных Нидерландах преобладает употребление местоимения hij \(муж. род\). Здесь местоимение zij заменяет кроме названий лиц женского пола лишь некоторые вещественные существительные: thee — чай, koffie — кофе, melk — молоко \(также hij\), soep — суп
+В отношении названий предметов в разговорном языке в Южных Нидерландах и в Бельгии употребление личных местоимений находится обычно в соответствии с их традиционным грамматическим родом. В Северных Нидерландах преобладает употребление местоимения **hij** \(муж. род\). Здесь местоимение **zij** заменяет кроме названий лиц женского пола лишь некоторые вещественные существительные: thee — чай, koffie — кофе, melk — молоко \(также **hij**\), soep — суп \(также **hij**\), tarwe — пшеница, klei—глина \(также **hij**\), turf — торф, antraciet — антрацит, wijn — вино \(также **hij**\), mosterd — горчица \(также **hij**\), inkt — чернила \(также **hij**\). Ряд производных абстрактных существительных с суффиксами **-ing**, **-heid**, **-nis**, **-st**, **-schap**, **-tie**, **-te**, **-ij** традиционно воспринимаются как существительные женского рода. Однако и в последнем случае употребление того или другого местоимения в разговорном языке также не является стойким и колеблется.
 
-
-
-
-
-
-
-
-
-
-
-
-
-  
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 31.0px; font: 11.0px 'Times New Roman'}  
-p.p2 {margin: 0.0px 0.0px 5.0px 0.0px; text-align: justify; text-indent: 24.0px; font: 11.0px 'Times New Roman'}  
-p.p3 {margin: 0.0px 0.0px 0.0px 53.0px; text-align: justify; font: 11.0px 'Times New Roman'}  
-p.p4 {margin: 0.0px 0.0px 5.0px 53.0px; text-align: justify; font: 11.0px 'Times New Roman'}  
-p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 24.0px; font: 11.0px 'Times New Roman'}  
-p.p6 {margin: 0.0px 0.0px 16.0px 0.0px; text-align: justify; text-indent: 24.0px; font: 11.0px 'Times New Roman'}  
-p.p7 {margin: 0.0px 0.0px 5.0px 0.0px; text-align: center; font: 11.0px 'Times New Roman'}  
-p.p8 {margin: 0.0px 0.0px 12.0px 0.0px; text-align: justify; text-indent: 24.0px; font: 11.0px 'Times New Roman'}  
-p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 10.0px 'Times New Roman'}  
-p.p10 {margin: 0.0px 0.0px 0.0px 62.0px; font: 10.0px 'Times New Roman'}  
-p.p11 {margin: 10.0px 0.0px 0.0px 0.0px; text-align: center; font: 11.0px 'Times New Roman'}  
-p.p12 {margin: 0.0px 0.0px 10.0px 0.0px; text-align: center; font: 11.0px 'Times New Roman'}  
-p.p13 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 11.0px 'Times New Roman'}  
-p.p14 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 17.0px; font: 11.0px 'Times New Roman'}  
-p.p15 {margin: 11.0px 0.0px 0.0px 0.0px; text-indent: 17.0px; font: 11.0px 'Times New Roman'}  
-p.p16 {margin: 0.0px 0.0px 7.0px 0.0px; line-height: 0.1px; font: 12.0px 'Times New Roman'; min-height: 15.0px}  
-span.s1 {font: 12.0px 'Times New Roman'}  
-span.Apple-tab-span {white-space:pre}  
-table.t1 {border-collapse: collapse}  
-td.td1 {background-color: \#ffffff; border-style: solid; border-width: 0.5px 1.0px 1.0px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-td.td2 {background-color: \#ffffff; border-style: solid; border-width: 0.5px 0.5px 1.0px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-td.td3 {background-color: \#ffffff; border-style: solid; border-width: 0.5px 1.0px 0.5px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-td.td4 {background-color: \#ffffff; border-style: solid; border-width: 0.5px 0.5px 0.5px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-
-
-\(также hij\), tarwe — пшеница, klei—глина \(также hij\), turf — торф, antraciet — антрацит, wijn — вино \(также hij\), mosterd — горчица \(также hij\), inkt — чернила \(также hij\). Ряд производных абстрактных существительных с суффиксами -ing, -heid, -nis, -st, -schap, -tie, -te, -ij традиционно воспринимаются как существительные женского рода. Однако и в последнем случае употребление того или другого местоимения в разговорном языке также не является стойким и колеблется.
-
-Почти все неодушевленные существительные рода de \(названия многих предметов и ряд абстрактных понятий\) в 3-м лице единственного числа заменяются здесь местоимением hij, напр.:
-
-Waar is uw pen? Hij ligt in de schooltas.
-
+Почти все неодушевленные существительные рода de \(названия многих предметов и ряд абстрактных понятий\) в 3-м лице единственного числа заменяются здесь местоимением hij, напр.:  
+Waar is uw pen? **Hij** ligt in de schooltas.  
 Где ваша ручка? Она лежит в портфеле.
 
-Ср. однако, такие абстрактные существительные как: deugd, eer, hoop, hulp, macht, pijn, rust, smart, taal, vrees, wet, ziel, zorg и др., которые, как правило, относятся к женск. роду и заменяются местоимением zij.
+Ср. однако, такие абстрактные существительные как: deugd, eer, hoop, hulp, macht, pijn, rust, smart, taal, vrees, wet, ziel, zorg и др., которые, как правило, относятся к женск. роду и заменяются местоимением **zij**.
 
-При замене неодушевленных существительных всех родов в 3-м лице множественного числа употребляется преимущественно редуцированная форма ze \(они\).
+При замене неодушевленных существительных всех родов в 3-м лице множественного числа употребляется преимущественно редуцированная форма **ze** \(они\).
 
 Склонение личных местоимений
 
 Система склонения личных местоимений в современном нидерландском языке в значительной степени разрушена. В настоящее время можно говорить о наличии субъектного и объектного падежей личных местоимений. Формы субъектного падежа см. выше. Объектный падеж выступает в следующих формах:
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">&#x41B;&#x438;&#x446;&#x43E;</th>
-      <th style="text-align:left">&#x415;&#x434;&#x438;&#x43D;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x43E;&#x435;
-        &#x447;&#x438;&#x441;&#x43B;&#x43E;</th>
-      <th style="text-align:left">&#x41C;&#x43D;&#x43E;&#x436;&#x435;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x43E;&#x435;
-        &#x447;&#x438;&#x441;&#x43B;&#x43E;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p>1</p>
-        <p>2</p>
-        <p>3</p>
-      </td>
-      <td style="text-align:left">
-        <p>mij &#x43C;&#x43D;&#x435;, &#x43C;&#x435;&#x43D;&#x44F;</p>
-        <p>jou &#x442;&#x435;&#x431;&#x435;, &#x442;&#x435;&#x431;&#x44F;</p>
-        <p>U (&#x438;) &#x432;&#x430;&#x43C;, &#x432;&#x430;&#x441;</p>
-        <p>hem &#x435;&#x43C;&#x443;, &#x435;&#x433;&#x43E;</p>
-        <p>haar &#x435;&#x439;, &#x435;&#x451;</p>
-        <p>het &#x435;&#x43C;&#x443;, &#x435;&#x433;&#x43E;</p>
-        <p>(&#x434;&#x43B;&#x44F; &#x441;&#x440;&#x435;&#x434;&#x43D;&#x435;&#x433;&#x43E;
-          &#x440;&#x43E;&#x434;&#x430;)</p>
-      </td>
-      <td style="text-align:left">
-        <p>ons &#x43D;&#x430;&#x43C;, &#x43D;&#x430;&#x441;</p>
-        <p>&#x429;&#x438;) } &#x432;&#x430;&#x43C;&#x2019; &#x432;&#x430;&#x441;</p>
-        <p>hun, hen (haar), ze &#x438;&#x43C;, &#x438;&#x445;</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Лицо | Единственное число | Множественное число |
+| :--- | :--- | :--- |
+| 1 | mij — мне, меня | ons — нам, нас |
+| 2 | jou — тебе, тебя U \(u\) — вам, вас | jullie U \(u\) — вам, нас |
+| 3 | hem — ему, его haar — ей, её het — ему, его \(для среднего рода\) | hun, hen \(haar\), ze — им, их |
 
-В живой разговорной речи и в разговорном стиле литературного языка преобладают редуцированные формы: те — \(mij\), je — \(jou\), ’т— \(hem\), d’r, ’r — \(haar\), ’t — \(het\); je употребляется также во множ, числе наряду с jullie.
+В живой разговорной речи и в разговорном стиле литературного языка преобладают редуцированные формы: **me** — \(mij\), **je** — \(jou\), **’m** — \(hem\), **d’r**, **’r** — \(haar\), **’t** — \(het\); **je** употребляется также во множ. числе наряду с **jullie**.
 
-Формы 3-го лица множественного числа hun и hen в литературном языке различны по своему значению; hun — им \(форма дательного падежа обычно без предлога и в разговорном языке\), hen — их \(форма винительного падежа\), напр.: ik geef hun я даю им; ik zie hen я вижу их.
+Формы 3-го лица множественного числа **hun** и **hen** в литературном языке различны по своему значению; **hun** — им \(форма дательного падежа обычно без предлога и в разговорном языке\), **hen** — их \(форма винительного падежа\), напр.: ik geef **hun** — я даю им; ik zie **hen** — я вижу их.
 
-В высоком стиле форма hun малоупотребительна и заменяется формой hen \(обычно в сочетании с предлогами\) при обозначении лиц обоего пола. Форма haar \(для лиц женского пола\) встречается редко и только в письменном языке \(как архаическая форма\).
+В высоком стиле форма **hun** малоупотребительна и заменяется формой **hen** \(обычно в сочетании с предлогами\) при обозначении лиц обоего пола. Форма **haar** \(для лиц женского пола\) встречается редко и только в письменном языке \(как архаическая форма\).
 
-При обозначении неодушевленных предметов \(независимо от грамматического рода\) как в литературном, так и в разговорном языке вместо hun, hen употребляется обычно форма ze \(в значении им, их\).
+При обозначении неодушевленных предметов \(независимо от грамматического рода\) как в литературном, так и в разговорном языке вместо **hun**, **hen** употребляется обычно форма **ze** \(в значении им, их\).
 
 Старые формы родительного падежа личных местоимений mijns, mijner; onzer, uwer; zijns, zijner; haars, harer; huns, hunner встречаются только в литературном языке.
 
 Форма среднего рода het никогда не употребляется в сочетании с предлогами и заменяется соответствующими местоименными наречиями.
 
-§ 18. Возвратное местоимение
-
+**§ 18.** Возвратное местоимение  
 \(Het wederkerende voornaamwoord, het reflexief\)
 
-Возвратное местоимение zich \(себе, себя\) является формой объектного падежа и характерно только для литературного языка. Оно употребляется для 3-го лица единственного и множественного числа всех родов, напр.: hij vergist zich он заблуждается. Для усиления значения к нему часто присоединяется определительное местоимение zelf, напр.:
+Возвратное местоимение **zich** \(себе, себя\) является формой объектного падежа и характерно только для литературного языка. Оно употребляется для 3-го лица единственного и множественного числа всех родов, напр.: hij vergist zich — он заблуждается. Для усиления значения к нему часто присоединяется определительное местоимение **zelf**, напр.:  
+hij is zichzelf tot last — он самому себе в тягость
 
-hij is zichzelf tot last он самому себе в тягость
+Для 1-го и 2-го лица единственного и множественного числа в значении возвратного место имения употребляются соответствующие личные местоимения в объектном падеже:  
+ik verheug **mij, me** — я радуюсь  
+jij, u verheugt **je, u \(zich\)** — ты радуешься, вы радуетесь  
+hij, zij het verheugt **zich** — он, она, оно радуется  
+wij verheugen **ons** — мы радуемся  
+jullie verheugt **je, u** verheugt **u \(zich\)** — вы радуетесь  
+zij verheugen **zich** — они радуются
 
-Для 1-го и 2-го лица единственного и множественного числа в значении возвратного место имения употребляются соответствующие личные местоимения в объектном падеже:
-
-ik verheug mij, me я радуюсь
-
-jij, u verheugt je, u \(zich\) ты радуешься, вы радуетесь
-
-hij, zij het verheugt zich он, она, оно радуется
-
-
-
-
-
-
-
-
-
-
-
-  
-p.p1 {margin: 0.0px 0.0px 0.0px 52.0px; font: 11.0px 'Times New Roman'}  
-p.p2 {margin: 0.0px 0.0px 16.0px 52.0px; text-indent: 1.0px; font: 11.0px 'Times New Roman'}  
-p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 11.0px 'Times New Roman'}  
-p.p4 {margin: 0.0px 0.0px 7.0px 0.0px; text-align: center; font: 11.0px 'Times New Roman'}  
-p.p5 {margin: 0.0px 0.0px 16.0px 0.0px; text-align: justify; text-indent: 24.0px; font: 11.0px 'Times New Roman'}  
-p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 10.0px 'Times New Roman'}  
-p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}  
-p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 12.0px; font: 10.0px 'Times New Roman'}  
-p.p9 {margin: 11.0px 0.0px 10.0px 0.0px; text-align: center; font: 11.0px 'Times New Roman'}  
-p.p10 {margin: 0.0px 0.0px 10.0px 0.0px; text-align: center; font: 11.0px 'Times New Roman'}  
-p.p11 {margin: 0.0px 0.0px 11.0px 0.0px; font: 11.0px 'Times New Roman'}  
-p.p12 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px 'Times New Roman'}  
-p.p13 {margin: 0.0px 0.0px 10.0px 0.0px; text-indent: 12.0px; font: 11.0px 'Times New Roman'}  
-p.p14 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 12.0px; font: 11.0px 'Times New Roman'}  
-p.p15 {margin: 11.0px 0.0px 0.0px 0.0px; text-indent: 9.0px; font: 11.0px 'Times New Roman'}  
-p.p16 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 21.0px; font: 11.0px 'Times New Roman'}  
-p.p17 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 9.0px; font: 11.0px 'Times New Roman'}  
-p.p18 {margin: 0.0px 0.0px 11.0px 0.0px; text-indent: 9.0px; font: 11.0px 'Times New Roman'}  
-p.p19 {margin: 0.0px 0.0px 5.0px 0.0px; text-align: right; font: 11.0px 'Times New Roman'}  
-p.p20 {margin: 0.0px 0.0px 7.0px 0.0px; line-height: 0.1px; font: 12.0px 'Times New Roman'; min-height: 15.0px}  
-p.p21 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 24.0px; font: 11.0px 'Times New Roman'}  
-p.p22 {margin: 0.0px 0.0px 7.0px 0.0px; text-indent: 24.0px; font: 11.0px 'Times New Roman'}  
-p.p23 {margin: 0.0px 0.0px 0.0px 52.0px; text-indent: 1.0px; font: 11.0px 'Times New Roman'}  
-p.p24 {margin: 0.0px 0.0px 7.0px 52.0px; text-indent: 1.0px; font: 11.0px 'Times New Roman'}  
-p.p25 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 24.0px; font: 11.0px 'Times New Roman'}  
-p.p26 {margin: 0.0px 0.0px 7.0px 0.0px; text-align: justify; text-indent: 24.0px; font: 11.0px 'Times New Roman'}  
-span.s1 {font: 12.0px 'Times New Roman'}  
-span.Apple-tab-span {white-space:pre}  
-table.t1 {border-collapse: collapse}  
-td.td1 {background-color: \#ffffff; border-style: solid; border-width: 0.5px 1.0px 1.0px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-td.td2 {background-color: \#ffffff; border-style: solid; border-width: 0.5px 0.5px 1.0px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-td.td3 {background-color: \#ffffff; border-style: solid; border-width: 0.5px 1.0px 0.5px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-td.td4 {background-color: \#ffffff; border-style: solid; border-width: 0.5px 0.5px 0.5px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-
-
-wij verheugen ons мы радуемся
-
-jullie verheugt Je, u verheugt u \(zich\) вы радуетесь zij verheugen zich они радуются
-
-§ 19. Взаимные местоимения
-
+**§ 19.** Взаимные местоимения  
 \(Wederkerige voornaamwoorden\)
 
 В нидерландском языке имеются следующие взаимные местоимения: elkander \(elkaar\) и более архаические и диалектные варианты: malkander \(mekaar\) — друг друга. Ср. wij ontmoetten elkaar in Amsterdam мы встретились в Амстердаме. Они употребляются часто с предлогами, напр.: ze reden achter elkaar они ехали друг за другом. В письменно-литературном языке вместо elkaar употребляется нередко aaneen, bijeen, uiteen и др.
 
-§ 20. Притяжательные местоимения  
- \(Bezittelijke voornaamworden, possessieven\)
+**§ 20.** Притяжательные местоимения  
+\(Bezittelijke voornaamworden, possessieven\)
 
 <table>
   <thead>
@@ -242,77 +117,76 @@ jullie verheugt Je, u verheugt u \(zich\) вы радуетесь zij verheugen 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">
-        <p>1</p>
-        <p>2</p>
-        <p>3</p>
-      </td>
-      <td style="text-align:left">
-        <p>mijn</p>
-        <p>jouw</p>
-        <p>Uw (uw) zijn haar</p>
-        <p>zijn</p>
-      </td>
-      <td style="text-align:left">
-        <p>&#x43C;&#x43E;&#x439;, &#x43C;&#x43E;&#x44F;, &#x43C;&#x43E;&#x435;, &#x43C;&#x43E;&#x438;</p>
-        <p>&#x442;&#x432;&#x43E;&#x439;, &#x442;&#x432;&#x43E;&#x44F;, &#x442;&#x432;&#x43E;&#x451;,
-          &#x442;&#x432;&#x43E;&#x438;</p>
-        <p>&#x432;&#x430;&#x448;, &#x432;&#x430;&#x448;&#x430;, &#x432;&#x430;&#x448;&#x435;,
-          &#x432;&#x430;&#x448;&#x438;</p>
-        <p>&#x435;&#x433;&#x43E; (&#x43C;&#x443;&#x436;. &#x440;.)</p>
-        <p>&#x435;&#x435; (&#x436;&#x435;&#x43D;. &#x440;.)</p>
-        <p>&#x435;&#x433;&#x43E; (&#x441;&#x440;. &#x440;.)</p>
-      </td>
-      <td style="text-align:left">onze, ons jullie Uw (uw) hun hun (haar) hun</td>
-      <td style="text-align:left">
-        <p>&#x43D;&#x430;&#x448;, &#x43D;&#x430;&#x448;&#x430;, &#x43D;&#x430;&#x448;&#x438;,</p>
-        <p>&#x43D;&#x430;&#x448;&#x435; (&#x441;&#x440;. &#x440;.)</p>
-        <p>&#x432;&#x430;&#x448;, &#x432;&#x430;&#x448;&#x430;, &#x432;&#x430;&#x448;&#x435;,
-          &#x432;&#x430;&#x448;&#x438;</p>
-        <p>&#x432;&#x430;&#x448;, &#x432;&#x430;&#x448;&#x430;, &#x432;&#x430;&#x448;&#x435;,
-          &#x432;&#x430;&#x448;&#x438;</p>
-        <p>&#x438;&#x445;</p>
-      </td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">mijn</td>
+      <td style="text-align:left">&#x43C;&#x43E;&#x439;, &#x43C;&#x43E;&#x44F;, &#x43C;&#x43E;&#x435;, &#x43C;&#x43E;&#x438;</td>
+      <td
+      style="text-align:left">onze,
+        <br />ons</td>
+        <td style="text-align:left">
+          <p>&#x43D;&#x430;&#x448;, &#x43D;&#x430;&#x448;&#x430;, &#x43D;&#x430;&#x448;&#x438;,</p>
+          <p>&#x43D;&#x430;&#x448;&#x435; (&#x441;&#x440;. &#x440;.)</p>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left">jouw
+        <br />Uw (uw)</td>
+      <td style="text-align:left">&#x442;&#x432;&#x43E;&#x439;, &#x442;&#x432;&#x43E;&#x44F;, &#x442;&#x432;&#x43E;&#x451;,
+        &#x442;&#x432;&#x43E;&#x438;
+        <br />&#x432;&#x430;&#x448;, &#x432;&#x430;&#x448;&#x430;, &#x432;&#x430;&#x448;&#x435;,
+        &#x432;&#x430;&#x448;&#x438;</td>
+      <td style="text-align:left">jullie
+        <br />Uw (uw)</td>
+      <td style="text-align:left">&#x432;&#x430;&#x448;, &#x432;&#x430;&#x448;&#x430;, &#x432;&#x430;&#x448;&#x435;,
+        &#x432;&#x430;&#x448;&#x438;
+        <br />&#x432;&#x430;&#x448;, &#x432;&#x430;&#x448;&#x430;, &#x432;&#x430;&#x448;&#x435;,
+        &#x432;&#x430;&#x448;&#x438;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">zijn
+        <br />haar
+        <br />zijn</td>
+      <td style="text-align:left">&#x435;&#x433;&#x43E; (&#x43C;&#x443;&#x436;. &#x440;.)
+        <br />&#x435;&#x435; (&#x436;&#x435;&#x43D;. &#x440;.)
+        <br />&#x435;&#x433;&#x43E; (&#x441;&#x440;. &#x440;.)</td>
+      <td style="text-align:left">hun
+        <br />hun (haar)
+        <br />hun</td>
+      <td style="text-align:left">&#x438;&#x445;</td>
     </tr>
   </tbody>
 </table>
 
-Соответствующие редуцированные разговорные формы: m’n, me \(1 л. ед. ч.\); je \(2 л. ед. ч.\); z’n, ze d’r, ’r \(3 л. ед. ч.\); je \(2 л. мн. ч.\); d’r, ’г \(3 л. мн. ч. от haar\).
+Соответствующие редуцированные разговорные формы: **m’n**, me \(1 л. ед. ч.\); **je** \(2 л. ед. ч.\); **z’n**, ze **d’r**, **’r** \(3 л. ед. ч.\); **je** \(2 л. мн. ч.\); **d’r**, **’r** \(3 л. мн. ч. от haar\).
 
-Форма jouw употребляется под ударением и только в единственном числе. Неударная форма je, широко распространенная в разговорном языке, употребляется как в единственном, так и во множественном числе. В противопоставлении форм 1 л. мн. ч. onze — ons проявляется родовая дифференциация в ед. числе. По числам они не изменяются, напр.: mijn boek — моя книга, mijn boeken — мои книги.
+Форма **jouw** употребляется под ударением и только в единственном числе. Неударная форма **je**, широко распространенная в разговорном языке, употребляется как в единственном, так и во множественном числе. В противопоставлении форм 1 л. мн. ч. onze — ons проявляется родовая дифференциация в ед. числе. По числам они не изменяются, напр.: mijn boek — моя книга, mijn boeken — мои книги.
 
-В современном литературном языке притяжательные местоимения не склоняются и используются преимущественно в функции определения. В самостоятельном употреблении притяжательные местоимения приобретают в единственном числе окончание -е \(кроме jullie\), а во множественном числе окончание -еп и стоят после определенного артикля, напр.: de \(het\) mijne, de \(het\) jouwe, de \(het\) uwe, de \(het\) zijne, de onzen и т. п.
+В современном литературном языке притяжательные местоимения не склоняются и используются преимущественно в функции определения. В самостоятельном употреблении притяжательные местоимения приобретают в единственном числе окончание **-е** \(кроме jullie\), а во множественном числе окончание **-en** и стоят после определенного артикля, напр.: de \(het\) mijne, de \(het\) jouwe, de \(het\) uwe, de \(het\) zijne, de onzen и т. п.
 
-§ 21. Указательные местоимения  
+**§ 21.** Указательные местоимения  
  \(Aanwijzende voornaamwoorden, demonstratieven\)
 
-Различаются следующие указательные местоимения:
-
-deze —этот, эта, эти \(м., ж. и общ. р. ед. ч. и мн. ч. всех родов\)
-
-dit —это \(ср. р. ед. ч.\)
-
-die —тот, та, те \(м., ж. и общ. р. ед. ч. и мн. ч. всех родов\)
-
-dat — то \(ср. р. ед.ч.\)
-
-gene, gindse — тот, та, то, те \(как архаические формы только в литературном языке\) zulk een или zulke — такой, такая, такие zulk такое
-
-dergelijk\(e\) — такой, подобный
-
-dezelfde, diezelfde — тот же \(самый\), та же \(самая\), те же \(самые\)
-
-hetzelfde, datzelfde — то же \(самое\)
-
-degene, diegene — тот, та, те \(кто, который, которая, которые\)
-
-datgene — то \(что, которое\)
+Различаются следующие указательные местоимения:  
+**deze** —этот, эта, эти \(м., ж. и общ. р. ед. ч. и мн. ч. всех родов\)  
+**dit** —это \(ср. р. ед. ч.\)  
+**die** —тот, та, те \(м., ж. и общ. р. ед. ч. и мн. ч. всех родов\)  
+**dat** — то \(ср. р. ед.ч.\)  
+**gene**, **gindse** — тот, та, то, те \(как архаические формы только в литературном языке\)  
+**zulk een** или **zulke** — такой, такая, такие  
+**zulk** такое  
+**dergelijk\(e\)** — такой, подобный  
+**dezelfde**, **diezelfde** — тот же \(самый\), та же \(самая\), те же \(самые\)  
+**hetzelfde**, **datzelfde** — то же \(самое\)  
+**degene**, **diegene** — тот, та, те \(кто, который, которая, которые\)  
+**datgene** — то \(что, которое\)
 
 Склоняемые формы от этих местоимений в литературном языке почти не сохранились.
 
 Сочетания dat с предлогом неупотребительны и заменяются местоименными наречиями, образованными от наречия daar и соответствующих предлогов, типа daaraan \(вместо aan dat\), daarvoor \(вместо voor dat\) и т. п.
 
-Местоимение deze употребляется часто при противопоставлении, напр.: deze tekening is toch wat mooier dan die — этот рисунок ведь лучше, чем тот. Dit и dat могут употребляться и в сочетании с существительными общего рода.
+Местоимение **deze** употребляется часто при противопоставлении, напр.: **deze** tekening is toch wat mooier dan **die** — этот рисунок ведь лучше, чем тот. **Dit** и **dat** могут употребляться и в сочетании с существительными **общего** рода.
 
 
 
@@ -331,23 +205,7 @@ datgene — то \(что, которое\)
 
 
   
-p.p1 {margin: 0.0px 0.0px 4.0px 0.0px; text-indent: 26.0px; font: 11.0px 'Times New Roman'}  
-p.p2 {margin: 0.0px 0.0px 4.0px 328.0px; text-align: justify; text-indent: -273.0px; font: 11.0px 'Times New Roman'}  
-p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 26.0px; font: 11.0px 'Times New Roman'}  
-p.p4 {margin: 0.0px 0.0px 14.0px 0.0px; text-indent: 26.0px; font: 11.0px 'Times New Roman'}  
-p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 11.0px 'Times New Roman'}  
-p.p6 {margin: 0.0px 0.0px 8.0px 0.0px; text-align: center; font: 11.0px 'Times New Roman'}  
-p.p7 {margin: 0.0px 0.0px 4.0px 0.0px; text-align: justify; text-indent: 24.0px; font: 11.0px 'Times New Roman'}  
-p.p8 {margin: 0.0px 0.0px 0.0px 53.0px; text-align: justify; font: 11.0px 'Times New Roman'}  
-p.p9 {margin: 0.0px 0.0px 4.0px 53.0px; text-align: justify; font: 11.0px 'Times New Roman'}  
-p.p10 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 26.0px; font: 11.0px 'Times New Roman'}  
-p.p11 {margin: 0.0px 0.0px 4.0px 0.0px; text-align: justify; text-indent: 26.0px; font: 11.0px 'Times New Roman'}  
-p.p12 {margin: 0.0px 0.0px 16.0px 53.0px; text-align: justify; text-indent: 2.0px; font: 11.0px 'Times New Roman'}  
-p.p13 {margin: 0.0px 0.0px 4.0px 0.0px; text-align: center; font: 11.0px 'Times New Roman'}  
-p.p14 {margin: 0.0px 0.0px 0.0px 7.0px; text-align: justify; text-indent: 23.0px; font: 11.0px 'Times New Roman'}  
-p.p15 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 29.0px; font: 11.0px 'Times New Roman'}  
-p.p16 {margin: 0.0px 0.0px 12.0px 0.0px; text-align: justify; text-indent: 29.0px; font: 11.0px 'Times New Roman'}  
-span.Apple-tab-span {white-space:pre}  
+  
 
 
 Местоимения deze и die могут заменять существительные, указывая на ранее названное лицо или предмет и стоять вместо личного местоимения 3-го лица, употребление которого в ряде случаев могло бы быть двусмысленным, напр.:
