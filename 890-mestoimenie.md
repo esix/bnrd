@@ -275,7 +275,7 @@ ik kan niet met deze pen schrijven, probeer eens of je het kunt — я не мо
 г\) **het** употребляется также в сочетании с некоторыми глаголами, образуя застывшие конструкции, в которых указательная функция het совершенно утрачивается, напр.:  
 ik ben het eens met u — я с вами согласен.
 
-#### ЧИСЛИТЕЛЬНОЕ  \(Het telwoord, het numerale\)
+#### ЧИСЛИТЕЛЬНОЕ \(Het telwoord, het numerale\)
 
 **§ 26.** Количественные числительные \(Hoofdtelwoorden, cardinalia\)
 
@@ -319,94 +319,54 @@ ik ben het eens met u — я с вами согласен.
 | 14 de \(het\) veertien**de** | 100 de \(het\) honderd**ste** |
 | 15 de \(het\) vijftien**de** | 1000 de \(het\) duizend**ste** |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ПРИМЕЧАНИЕ. В значении порядковых числительных при нумерации могут употребляться количественные числительные, напр.: paragraaf 3 \(drie\) — 3-й параграф.
 
-При обозначении дат \(чисел\), если они отвечают на вопрос когда?, перед порядковыми числительными ставится предлог ор, напр.: hij was bij ons op de Eerste Mei — он был у нас первого мая
+При обозначении дат \(чисел\), если они отвечают на вопрос **когда?**, перед порядковыми числительными ставится предлог **ор**, напр.: hij was bij ons op de Eerste Mei — он был у нас первого мая
 
 ПРИМЕЧАНИЕ. Для обозначения года в этих случаях употребляются количественные числительные, напр.: in het jaar 1940 \(negentienhonderdveertig\) — в 1940 году.
 
 Порядковые числительные не изменяются по родам и числам и не склоняются.
 
-В самостоятельном употреблении \(в качестве существительных\) порядковые числительные могут стоять в единственном числе с неопределенным артиклем. Во множественном числе порядковые числительные принимают окончание -п, напр.:
+В самостоятельном употреблении \(в качестве существительных\) порядковые числительные могут стоять в единственном числе с неопределенным артиклем. Во множественном числе порядковые числительные принимают окончание **-n**, напр.:  
+ik zeg u dat in tegenwoordigheid **van een derde** — я говорю вам это в присутствии третьего лица  
+**de eersten** zijn reeds aangekomen — первые уже пришли
 
-ik zeg u dat in tegenwoordigheid van een я говорю вам это в присутствии третьего derde лица
+**§ 28.** _Дробные числительные  
+\(Breuktelwoorden\)_
 
-de eersten zijn reeds aangekomen первые уже пришли
+1\) Знаменатели дробных числительных образуются с помощью тех же суффиксов -de, -ste, которые используются для образования порядковых числительных. Исключением является числительное een half \(половина\), выраженное особым словом. В качестве числителей дробей употребляют количественные числительные:
 
-§ 28. Дробные числительные
+|  |  |
+| :--- | :--- |
+| ¹/₂ een half \(halve\) | ¹/₁₀₀ een honderdste |
+| ¹/₃ een derde | ²/₃ twee derde |
+| ¹/₄ een vierde | ³/₄ drie vierde |
+| ¹/₅ een vijfde | ⁵/₈ vijf achtste |
+| ¹/₁₀ een tiende | ⁷/₃₀ zeven twintigste и т. д. |
 
-\(Breuktelwoorden\)
+2\) Смешанные числа, состоящие из целого числа и дроби 1/2, образуются путем словосложения:  
+1 ¹/₂ anderhalf  
+2 ¹/₂ tweeëneenhalf
 
+3\) Дробные числительные не склоняются и выступают в предложении как в функции определения, так и самостоятельно.
 
+**§ 29.** Производные от числительных прилагательные и наречия со значением кратности и повторности образуются с помощью суффиксов **-voudig** \(или **-vuldig**\) и **-maal** \(или **-werf**\), присоединяемых к количественным числительным, напр.: tweevoudig — двойной, вдвое, вдвойне; drievoudig — тройной, втрое; tweemaal \(tweewerf\) — дважды, двукратно; driemaal \(driewerf\) — трижды, троекратно и т. д.
 
+#### ГЛАГОЛ \(Het werkwoord, het verbum\)
 
-
-
-
-
-
-
-
-
-
-  
-p.p2 {margin: 0.0px 0.0px 20.0px 0.0px; text-align: justify; text-indent: 26.0px; font: 11.0px 'Times New Roman'}  
-p.p3 {margin: 0.0px 0.0px 2.0px 0.0px; text-align: center; font: 11.0px 'Times New Roman'}  
-p.p4 {margin: 0.0px 0.0px 7.0px 0.0px; text-align: center; font: 11.0px 'Times New Roman'}  
-p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 26.0px; font: 11.0px 'Times New Roman'}  
-p.p6 {margin: 0.0px 0.0px 4.0px 0.0px; text-align: justify; text-indent: 26.0px; font: 11.0px 'Times New Roman'}  
-p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; font: 11.0px 'Times New Roman'}  
-p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 7.0px; font: 11.0px 'Times New Roman'}  
-p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 8.0px; font: 11.0px 'Times New Roman'}  
-p.p10 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px 'Times New Roman'}  
-p.p11 {margin: 0.0px 0.0px 7.0px 0.0px; line-height: 0.1px; font: 12.0px 'Times New Roman'; min-height: 15.0px}  
-p.p12 {margin: 0.0px 0.0px 2.0px 0.0px; text-align: justify; text-indent: 26.0px; font: 11.0px 'Times New Roman'}  
-p.p13 {margin: 0.0px 0.0px 2.0px 53.0px; text-align: justify; font: 11.0px 'Times New Roman'}  
-p.p14 {margin: 0.0px 0.0px 2.0px 0.0px; text-align: justify; text-indent: 24.0px; font: 11.0px 'Times New Roman'}  
-li.li1 {margin: 0.0px 0.0px 2.0px 0.0px; text-align: justify; font: 11.0px 'Times New Roman'}  
-span.s1 {font: 12.0px 'Times New Roman'}  
-span.Apple-tab-span {white-space:pre}  
-table.t1 {border-collapse: collapse}  
-td.td1 {background-color: \#ffffff; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-ol.ol1 {list-style-type: decimal}  
-
-
-1. 3\) Дробные числительные не склоняются и выступают в предложении как в функции определения, так и самостоятельно.
-
-§ 29. Производные от числительных прилагательные и наречия со значением кратности и повторности образуются с помощью суффиксов -voudig \(или -vuldig\) и -maal \(или -werf\), присоединяемых к количественным числительным, напр.: tweevoudig — двойной, вдвое, вдвойне; drievoudig — тройной, втрое; tweemaal \(tweewerf\) — дважды, двукратно; driemaal \(driewerf\) — трижды, троекратно и т. д.
-
-ГЛАГОЛ
-
-\(Het werkwoord, het verbum\)
-
-§ 30. Глагол в нидерландском языке характеризуется следующими грамматическими категориями: лица, числа, времени, наклонения и залога.
+**§ 30.** Глагол в нидерландском языке характеризуется следующими грамматическими категориями: лица, числа, времени, наклонения и залога.
 
 В составе личных глагольных форм нидерландского языка различаются три лица \(1-е, 2-е, 3-е\), два числа \(единственное и множественное\), шесть временных форм \(действительного залога изъявительного наклонения\), из них две простых \(настоящее и прошедшее\) и четыре сложных \(совершенное прошедшее или перфект, предпрошедшее, будущее 1, будущее II совершенное\), три наклонения \(изъявительное, повелительное и сослагательное, выступающее в пережиточно сохраняющихся формах конъюнктива и в формах кондиционалиса I и II\) и два залога \(действительный и страдательный\). Кроме того, имеется шесть неличных или именных форм глагола: инфинитивы \(I и II действительного и страдательного залога\) и причастия \(1 и II настоящего и прошедшего времени\).
 
 По типу спряжения в нидерландском языке различают глаголы слабые, сильные и глаголы особого типа, к которым относятся также претерито-презентные глаголы. Тип спряжения определяется по признаку образования основных форм глагола: инфинитива, простого прошедшего времени и причастия II.
 
-§31. Слабые глаголы образуют простое прошедшее время посредством суффиксов -te или -de, а причастие II посредством суффиксов -t или -d. Коренной гласный глагола остается при этом без изменений.
+**§31.** _Слабые_ глаголы образуют простое прошедшее время посредством суффиксов **-te** или **-de**, а причастие II посредством суффиксов **-t** или **-d**. Коренной гласный глагола остается при этом без изменений.
 
-Суффиксы -te и -t присоединяются к глагольным корням, оканчивающимся на глухие согласные \(р, t, k, f, s, ch\), тогда как суффиксы -de и -d присоединяются к корням, оканчивающимся на звонкие согласные \(b, d, g, v, w, z, 1, m, n, г\) или на гласные, напр.:
+Суффиксы **-te** и **-t** присоединяются к глагольным корням, оканчивающимся на глухие согласные **\(р, t, k, f, s, ch\)**, тогда как суффиксы **-de** и **-d** присоединяются к корням, оканчивающимся на звонкие согласные **\(b, d, g, v, w, z, l, m, n, r\)** или на гласные, напр.:
 
-| hopen | hoopte | gehoopt — надеяться |
+|  |  |  |
 | :--- | :--- | :--- |
+| hopen | hoopte | gehoopt — надеяться |
 | haten | haatte | gehaat — ненавидеть |
 | werken | werkte | gewerkt — работать |
 | straffen | strafte | gestraft — наказывать |
@@ -422,21 +382,37 @@ ol.ol1 {list-style-type: decimal}
 | sturen | stuurde | gestuurd — посылать |
 | maaien | maaide | gemaaid — косить и др. |
 
-ПРИМЕЧАНИЯ\*. 1. Если корень глагола оканчивается на t или d, то в простом прошедшем времени эти согласные удваиваются в написании, а в причастии II к корню не присоединяется никакого окончания, напр.: zetten, zette, gezet — ставить, сажать; baden, baadde, gebaad — купаться.
+ПРИМЕЧАНИЯ: 1. Если корень глагола оканчивается на **t** или **d**, то в простом прошедшем времени эти согласные удваиваются в написании, а в причастии II к корню не присоединяется никакого окончания, напр.: zetten, zette, gezet — ставить, сажать; baden, baadde, gebaad — купаться.
 
-2. Если корень глагола оканчивается на звонкий согласный v или z, то при образовании простого прошедшего времени и причастия II эти звуки обозначаются буквами f и s, а перед d в причастии II оглушаются в f и s, напр.:
-
-leven — leefde — geleefd жить, vrezen — vreesde — gevreesd бояться.
+2. Если корень глагола оканчивается на звонкий согласный **v** или **z**, то при образовании простого прошедшего времени и причастия II эти звуки обозначаются буквами **f** и **s**, а перед **d** в причастии II оглушаются в **f** и **s**, напр.:  
+leven — leefde — geleefd жить  
+vrezen — vreesde — gevreesd бояться.
 
 По слабому типу спрягается большинство глаголов и тип этот является продуктивным.
 
-§ 32. Сильные глаголы образуют простое прошедшее и причастие II посредством чередования коренного гласного глагола \(аблаут\) и путем присоединения к причастию II суффикса -еп, напр.:
-
+**§ 32.** _Сильные_ глаголы образуют простое прошедшее и причастие II посредством чередования коренного гласного глагола \(аблаут\) и путем присоединения к причастию II суффикса -en, напр.:  
 schrijven — schreef — geschreven.
 
 К сильному спряжению относится 164 глагола, число которых остается в основном неизменным. Все сильные глаголы группируются по рядам аблаута, которые отличаются друг от друга различными вариантами чередований коренных гласных этих глаголов.
 
+Различаются 7 рядов аблаута.
 
+|  |  |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| I ряд | ij — ee \(e\) — e _\(долгое\)_ | lijden | leed \(мн. ч. leden\) | geleden | страдать |
+| II ряд | a\) ie — oo \(o\) - o _\(долгое\)_ | schieten | schoot \(мн. ч. schoten\) | geschoten | стрелять |
+|  | б\) ui — oo \(o\) — o _\(долгое\)_ | kruipen | kroop \(мн. ч. kropen\) | gekropen | ползти |
+| III ряд | а\) i _\(краткое\)_ — o \(o\) — o _\(краткое\)_ | drinken | dronk \(мн. ч. dronken\) | gedronken | пить |
+|  | б\) e _\(краткое\)_ — ie \(ie\) — o _\(краткое\)_ | sterven | stierf \(мн. ч. stierven\) | gestorven | умирать |
+|  | в\) e — o _\(краткое\)_ \(o\) — o _\(краткое\)_ | treffen | trof \(мн. ч. troffen\) | getroffen | попадать |
+| IV ряд | e _\(долгое\)_ — a _\(краткое\)_ \(a\) _\(долгое\)_ — o _\(долгое\)_ | nemen | nam \(мн. ч. namen\) | genomen | брать |
+| V ряд | а\) e _\(долгое\)_ — a _\(краткое\)_ \(a\) _\(долгое\)_ — e _\(долгое\)_ | eten | at \(мн. ч. aten\) | gegeten | есть |
+|  | б\) i _\(краткое\)_ — a _\(краткое\)_ \(a\) _\(долгое\)_ — e _\(долгое\)_ | liggen | lag \(мн. ч. lagen\) | gelegen | лежать |
+| VI ряд | a _\(долгое\)_ — oe \(oe\) — a _\(долгое\)_ | dragen | droeg \(мн. ч. droegen\) | gedragen | носить |
+| VII ряд | а\) a _\(долгое\)_ — ie \(ie\) — a _\(долгое\)_ | slapen | sliep \(мн. ч. sliepen\) | geslapen | спать |
+|  | б\) a — i \(i\) — a _\(краткое\)_ | vangen | ving \(мн. ч. vingen\) | gevangen | ловить |
+|  | в\) o — ie \(ie\) — o _\(долгое\)_ | lopen | liep \(мн. ч. liepen\) | gelopen | ходить; бегать |
+|  | г\) ou — ie \(ie\) — ou | houden | hield \(мн. ч. hielden\) | gehouden | держать |
 
 
 
@@ -457,174 +433,6 @@ schrijven — schreef — geschreven.
 
 
   
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 26.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}  
-p.p7 {margin: 0.0px 0.0px 14.0px 0.0px; text-align: center; font: 8.5px 'Times New Roman'}  
-p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 37.0px; font: 8.5px 'Times New Roman'}  
-p.p9 {margin: 0.0px 0.0px 0.0px 159.0px; font: 8.5px 'Times New Roman'}  
-p.p10 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 12.0px; font: 8.5px 'Times New Roman'}  
-p.p11 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 20.0px; font: 8.5px 'Times New Roman'}  
-p.p12 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 46.0px; font: 8.5px 'Times New Roman'}  
-p.p13 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 20.0px; font: 8.5px 'Times New Roman'}  
-p.p14 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 12.0px; font: 8.5px 'Times New Roman'}  
-p.p15 {margin: 0.0px 0.0px 0.0px 0.0px; font: 8.5px 'Times New Roman'}  
-p.p16 {margin: 0.0px 0.0px 0.0px 10.0px; font: 8.5px 'Times New Roman'}  
-p.p17 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 7.0px; font: 8.5px 'Times New Roman'}  
-p.p18 {margin: 0.0px 0.0px 6.0px 0.0px; text-indent: 12.0px; font: 8.5px 'Times New Roman'}  
-li.li2 {margin: 8.0px 0.0px 6.0px 0.0px; font: 11.0px 'Times New Roman'}  
-li.li3 {margin: 0.0px 0.0px 23.0px 0.0px; font: 12.0px 'Times New Roman'}  
-li.li4 {margin: 0.0px 0.0px 39.0px 0.0px; text-align: center; font: 12.0px 'Times New Roman'}  
-li.li5 {margin: 0.0px 0.0px 6.0px 0.0px; text-align: center; font: 12.0px 'Times New Roman'}  
-li.li6 {margin: 0.0px 0.0px 6.0px 0.0px; font: 12.0px 'Times New Roman'}  
-span.s1 {font: 12.0px 'Times New Roman'}  
-span.s2 {font: 8.5px 'Times New Roman'}  
-span.Apple-tab-span {white-space:pre}  
-table.t1 {border-collapse: collapse}  
-td.td1 {background-color: \#ffffff; border-style: solid; border-width: 0.5px 1.0px 0.5px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-td.td2 {background-color: \#ffffff; border-style: solid; border-width: 0.5px 0.5px 0.5px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-ol.ol1 {list-style-type: upper-roman}  
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">
-        <ol>
-          <li>&#x420;&#x430;&#x437;&#x43B;&#x438;&#x447;&#x430;&#x44E;&#x442;&#x441;&#x44F;
-            7 &#x440;&#x44F;&#x434;&#x43E;&#x432; &#x430;&#x431;&#x43B;&#x430;&#x443;&#x442;&#x430;
-            (&#x441;&#x43C;. &#x442;&#x430;&#x431;&#x43B;, &#x43D;&#x430; &#x441;&#x43B;&#x435;&#x434;.
-            &#x441;&#x442;&#x440;.).I &#x440;&#x44F;&#x434;</li>
-          <li>II &#x440;&#x44F;&#x434;</li>
-          <li>III &#x440;&#x44F;&#x434;</li>
-          <li>IV &#x440;&#x44F;&#x434;</li>
-          <li>V &#x440;&#x44F;&#x434;</li>
-          <li>VI &#x440;&#x44F;&#x434;</li>
-        </ol>
-        <p>VII &#x440;&#x44F;&#x434;</p>
-      </th>
-      <th style="text-align:left">
-        <p>ij &#x2014; &#x435;&#x435; (&#x435;) &#x2014; &#x435;</p>
-        <p>(&#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x435;)</p>
-        <p>&#x430;) ie &#x2014; &#x43E;&#x43E; (&#x43E;) &#x2014; &#x43E;</p>
-        <p>(&#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x435;)</p>
-        <p>&#x431;) ui &#x2014; &#x43E;&#x43E; (&#x43E;) &#x2014; &#x43E;</p>
-        <p>(&#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x435;)</p>
-        <p>&#x430;) i &#x2014; &#x43E; (&#x43E;) &#x2014; &#x43E;</p>
-        <p>(&#x43A;&#x440;&#x430;&#x442;&#x43A;&#x43E;&#x435;) (&#x43A;&#x440;&#x430;&#x442;&#x43A;&#x43E;&#x435;)</p>
-        <p>&#x431;) &#x435; &#x2014; ie (ie) &#x2014; &#x43E;</p>
-        <p>(&#x43A;&#x440;&#x430;&#x442;&#x43A;&#x43E;&#x435;) (&#x43A;&#x440;&#x430;&#x442;&#x43A;&#x43E;&#x435;)</p>
-        <p>&#x432;) &#x435; &#x2014; &#x43E; (&#x43E;) &#x2014; &#x43E;</p>
-        <p>(&#x43A;&#x440;&#x430;&#x442;&#x43A;&#x43E;&#x435;) (&#x43A;&#x440;&#x430;&#x442;&#x43A;&#x43E;&#x435;)</p>
-        <p>&#x435; &#x2014; &#x430; (&#x430;) &#x2014; &#x43E;</p>
-        <p>(&#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x435;) (&#x43A;&#x440;&#x430;&#x442;&#x43A;&#x43E;&#x435;)
-          (&#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x435;) (&#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x435;)</p>
-        <p>&#x430;) &#x435; &#x2014; &#x430; (&#x430;) &#x2014; &#x435;</p>
-        <p>(&#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x435;) (&#x43A;&#x440;&#x430;&#x442;&#x43A;&#x43E;&#x435;)
-          (&#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x435;) (&#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x435;)</p>
-        <p>&#x431;) i &#x2014; &#x430; (&#x430;) &#x2014; &#x435;</p>
-        <p>(&#x43A;&#x440;&#x430;&#x442;&#x43A;&#x43E;&#x435;) (&#x43A;&#x440;&#x430;&#x442;&#x43A;&#x43E;&#x435;)
-          (&#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x435;) (&#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x435;)</p>
-        <p>&#x430; &#x2014; &#x43E;&#x435; (&#x43E;&#x435;) &#x2014; &#x430;</p>
-        <p>(&#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x435;) (&#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x435;)</p>
-        <p>&#x430;) &#x430; &#x2014; ie (ie) &#x2014; &#x430;</p>
-        <p>(&#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x435;) (&#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x435;)</p>
-        <p>&#x431;) &#x430; &#x2014; i (i) &#x2014; &#x430;</p>
-        <p>(&#x43A;&#x440;&#x430;&#x442;&#x43A;&#x43E;&#x435;) (&#x43A;&#x440;&#x430;&#x442;&#x43A;&#x43E;&#x435;)</p>
-        <p>&#x432;) &#x43E; &#x2014; ie (ie) &#x2014; &#x43E;</p>
-        <p>(&#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x435;) (&#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x435;)</p>
-        <p>&#x433;) &#x43E;&#x438; &#x2014; ie (ie) &#x2014; ou</p>
-      </th>
-      <th style="text-align:left">
-        <p>lijden schieten kruipen drinken sterven treffen</p>
-        <p>nemen eten liggen dragen slapen vangen lopen houden</p>
-      </th>
-      <th style="text-align:left">leed (&#x43C;&#x43D;. &#x447;. leden) schoot (&#x43C;&#x43D;. &#x447;.
-        schoten) kroop (&#x43C;&#x43D;. &#x447;. kropen) dronk (&#x43C;&#x43D;.
-        &#x447;. drenken) stierf (&#x43C;&#x43D;. &#x447;. stierven) trof (&#x43C;&#x43D;.
-        &#x447;. troffen) nam (&#x43C;&#x43D;. &#x447;. namen) at (&#x43C;&#x43D;.
-        &#x447;. aten) lag (&#x43C;&#x43D;. &#x447;. lagen) droeg (&#x43C;&#x43D;.
-        &#x447;. droegen) sliep (&#x43C;&#x43D;. &#x447;. sliepen) ving (&#x43C;&#x43D;.
-        &#x447;. vingen) liep (&#x43C;&#x43D;. &#x447;. liepen) hield (&#x43C;&#x43D;.
-        &#x447;. hielden)</th>
-      <th style="text-align:left">geleden geschoten gekropen gedronken gestorven getroffen genomen gegeten
-        gelegen gedragen geslapen gevangen gelopen gehouden</th>
-      <th style="text-align:left">
-        <p>&#x441;&#x442;&#x440;&#x430;&#x434;&#x430;&#x442;&#x44C;</p>
-        <p>&#x441;&#x442;&#x440;&#x435;&#x43B;&#x44F;&#x442;&#x44C;</p>
-        <p>&#x43F;&#x43E;&#x43B;&#x437;&#x442;&#x438;</p>
-        <p>&#x43F;&#x438;&#x442;&#x44C;</p>
-        <p>&#x443;&#x43C;&#x438;&#x440;&#x430;&#x442;&#x44C;</p>
-        <p>&#x43F;&#x43E;&#x43F;&#x430;&#x434;&#x430;&#x442;&#x44C;</p>
-        <p>&#x431;&#x440;&#x430;&#x442;&#x44C;</p>
-        <p>&#x435;&#x441;&#x442;&#x44C;</p>
-        <p>&#x43B;&#x435;&#x436;&#x430;&#x442;&#x44C;</p>
-        <p>&#x43D;&#x43E;&#x441;&#x438;&#x442;&#x44C;</p>
-        <p>&#x441;&#x43F;&#x430;&#x442;&#x44C;</p>
-        <p>&#x43B;&#x43E;&#x432;&#x438;&#x442;&#x44C;</p>
-        <p>&#x445;&#x43E;&#x434;&#x438;&#x442;&#x44C;; &#x431;&#x435;&#x433;&#x430;&#x442;&#x44C;</p>
-        <p>&#x434;&#x435;&#x440;&#x436;&#x430;&#x442;&#x44C;</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-p.p1 {margin: 0.0px 0.0px 5.0px 0.0px; text-align: justify; text-indent: 23.0px; font: 11.0px 'Times New Roman'}  
-p.p2 {margin: 0.0px 0.0px 0.0px 51.0px; font: 11.0px 'Times New Roman'}  
-p.p3 {margin: 0.0px 0.0px 5.0px 51.0px; font: 11.0px 'Times New Roman'}  
-p.p4 {margin: 0.0px 0.0px 5.0px 0.0px; text-indent: 21.0px; font: 11.0px 'Times New Roman'}  
-p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 21.0px; font: 11.0px 'Times New Roman'}  
-p.p6 {margin: 0.0px 0.0px 5.0px 51.0px; text-indent: 1.0px; font: 11.0px 'Times New Roman'}  
-p.p7 {margin: 0.0px 0.0px 7.0px 51.0px; text-indent: 1.0px; font: 11.0px 'Times New Roman'}  
-p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 21.0px; font: 11.0px 'Times New Roman'}  
-p.p9 {margin: 0.0px 0.0px 5.0px 51.0px; text-align: justify; text-indent: 1.0px; font: 11.0px 'Times New Roman'}  
-p.p10 {margin: 0.0px 0.0px 5.0px 0.0px; font: 11.0px 'Times New Roman'}  
-p.p11 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px 'Times New Roman'}  
-p.p12 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 40.0px; font: 11.0px 'Times New Roman'}  
-p.p13 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 10.0px; font: 11.0px 'Times New Roman'}  
-p.p14 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 27.0px; font: 11.0px 'Times New Roman'}  
-p.p15 {margin: 0.0px 0.0px 13.9px 0.0px; line-height: 0.1px; font: 12.0px 'Times New Roman'; min-height: 15.0px}  
-p.p16 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 11.0px 'Times New Roman'}  
-p.p17 {margin: 0.0px 0.0px 5.0px 0.0px; text-align: center; font: 11.0px 'Times New Roman'}  
-p.p18 {margin: 0.0px 0.0px 0.0px 22.6px; font: 11.0px 'Times New Roman'}  
-p.p19 {margin: 0.0px 0.0px 0.0px 52.0px; font: 11.0px 'Times New Roman'}  
-p.p20 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 32.0px; font: 11.0px 'Times New Roman'}  
-p.p21 {margin: 0.0px 0.0px 0.0px 52.0px; text-align: justify; font: 11.0px 'Times New Roman'}  
-p.p22 {margin: 0.0px 0.0px 0.0px 84.0px; font: 11.0px 'Times New Roman'}  
-p.p23 {margin: 0.0px 0.0px 0.0px 55.0px; font: 11.0px 'Times New Roman'}  
-p.p24 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 42.0px; font: 11.0px 'Times New Roman'}  
-p.p25 {margin: 0.0px 0.0px 5.0px 0.0px; line-height: 0.1px; font: 12.0px 'Times New Roman'; min-height: 15.0px}  
-p.p26 {margin: 0.0px 0.0px 0.0px 206.8px; font: 11.0px 'Times New Roman'}  
-p.p27 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}  
-p.p28 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 10.0px 'Times New Roman'}  
-p.p29 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 36.0px; font: 11.0px 'Times New Roman'}  
-p.p30 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 35.0px; font: 11.0px 'Times New Roman'}  
-p.p31 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 35.0px; font: 11.0px 'Times New Roman'}  
-p.p32 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 43.0px; font: 11.0px 'Times New Roman'}  
-p.p33 {margin: 0.0px 0.0px 5.0px 0.0px; text-align: justify; text-indent: 24.0px; font: 11.0px 'Times New Roman'}  
-span.Apple-tab-span {white-space:pre}  
-table.t1 {border-collapse: collapse}  
-td.td1 {background-color: \#ffffff; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-td.td2 {background-color: \#ffffff; border-style: solid; border-width: 0.5px 1.0px 1.0px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-td.td3 {background-color: \#ffffff; border-style: solid; border-width: 0.5px 0.5px 1.0px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-td.td4 {background-color: \#ffffff; border-style: solid; border-width: 1.0px 1.0px 1.0px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-td.td5 {background-color: \#ffffff; border-style: solid; border-width: 1.0px 0.5px 1.0px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-td.td6 {background-color: \#ffffff; border-style: solid; border-width: 1.0px 1.0px 0.5px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-td.td7 {background-color: \#ffffff; border-style: solid; border-width: 1.0px 0.5px 0.5px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
 
 
 **§ 33.** Ряд глаголов образует простое прошедшее время по слабому типу при сохранении в причастии II суффикса -еп, напр.:
