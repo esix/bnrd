@@ -2,8 +2,8 @@
 
 #### МЕСТОИМЕНИЕ \(Het voornaamwoord, het pronomen\) 
 
-**§ 17.** Личные местоимения  
-\(Persoonlijke voornaamwoorden\)
+**§ 17.** _Личные местоимения  
+\(Persoonlijke voornaamwoorden\)_
 
 <table>
   <thead>
@@ -414,77 +414,49 @@ schrijven — schreef — geschreven.
 |  | в\) o — ie \(ie\) — o _\(долгое\)_ | lopen | liep \(мн. ч. liepen\) | gelopen | ходить; бегать |
 |  | г\) ou — ie \(ie\) — ou | houden | hield \(мн. ч. hielden\) | gehouden | держать |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-**§ 33.** Ряд глаголов образует простое прошедшее время по слабому типу при сохранении в причастии II суффикса -еп, напр.:
-
-bakken — bakte — gebakken — печь
-
-braden — braadde — gebraden — жарить
-
-heten — heette — geheten — называть
-
+**§ 33.** Ряд глаголов образует простое прошедшее время по слабому типу при сохранении в причастии II суффикса **-en**, напр.:  
+bakken — bakte — gebakken — печь  
+braden — braadde — gebraden — жарить  
+heten — heette — geheten — называть  
 lachen — lachte — gelachen — смеяться и др.
 
-Иногда наряду с формой сильного прошедшего времени употребляется и слабая, напр.:
-
-raden — ried, raadde — geraden — советовать
-
+Иногда наряду с формой сильного прошедшего времени употребляется и слабая, напр.:  
+raden — ried, raadde — geraden — советовать  
 stoten — stiet \(уст.\), stootte — gestoten — толкать и др.
 
 Ср., с другой стороны, vragen — vroeg, vraagde — gevraagd — спрашивать
 
-Некоторые глаголы имеют в причастии II слабую, а в простом прошедшем времени сильную форму, существующую в ряде глаголов наряду со слабой, которая имеет другое значение, напр.:
+Некоторые глаголы имеют в причастии II слабую, а в простом прошедшем времени сильную форму, существующую в ряде глаголов наряду со слабой, которая имеет другое значение, напр.:  
+jagen — joeg — gejaagd — гнать\(ся\), но: jagen — jaagde — gejaagd — охотиться  
+plegen — placht — gepleegd — иметь обыкновение, но: plegen — pleegde — gepleegd — совершать \(преступление\)
 
-jagen — joeg — gejaagd — гнать\(ся\), но: jagen — jaagde — gejaagd — охотиться plegen — placht — gepleegd — иметь обыкновение, но: plegen — pleegde — gepleegd — совершать \(преступление\)
-
-Ряд глаголов имеет параллельно как сильные, так и слабые формы простого прошедшего времени и причастия II, причем значение глагола остается в обоих случаях неизменным, напр.:
-
+Ряд глаголов имеет параллельно как сильные, так и слабые формы простого прошедшего времени и причастия II, причем значение глагола остается в обоих случаях неизменным, напр.:  
 schuilen — schuilde — geschuild и school — gescholen — прятаться.
 
-С другой стороны, имеются глаголы с различными значениями, которые в этих значениях образуют формы простого прошедшего времени и причастия II по сильному или по слабому типу, напр.:
+С другой стороны, имеются глаголы с различными значениями, которые в этих значениях образуют формы простого прошедшего времени и причастия II по сильному или по слабому типу, напр.:  
+krijgen — kreeg — gekregen — получать и krijgen — krijgde — gekrijgd — воевать  
+malen — maalde — gemalen — молоть и malen — maalde — gemaaid — метаться  
+prijzen — prees — geprezen — хвалить и prijzen — prijsde — geprijsd — оценивать  
+scheppen — schiep — geschapen — создавать и scheppen — schepte — geschept — черпать  
+wassen — wies — gewassen — расти и wassen — waste \(_уст._ wies\) — gewassen — мыть и wassen — waste — gewast — натирать воском и др.
 
-krijgen — kreeg — gekregen — получать и krijgen — krijgde — gekrijgd — воевать malen — maalde — gemalen — молоть и malen — maalde — gemaaid — метаться prijzen — prees — geprezen — хвалить и prijzen — prijsde — geprijsd — оценивать scheppen — schiep — geschapen — создавать и scheppen — schepte — geschept — черпать wassen — wies — gewassen — расти и wassen — waste \(ycm. wies\) — gewassen — мыть и wassen — waste — gewast — натирать воском и др.
+**§ 34.** Глаголы _особого_ типа:
 
-**§ 34.** Глаголы особого типа:
+а\) претерито-презентные глаголы имеют особый тип спряжения, который характеризуется употреблением форм сильного прошедшего времени в значении настоящего времени. Сюда относятся модальные глаголы:  
+kunnen — kon \(мн. ч. konden\) — gekund — мочь; уметь  
+mogen — mocht — gemocht — мочь, сметь; иметь право; хотеть  
+willen — wilde, wou \(мн. ч. wilden, wouden\), — gewild — хотеть,  
+moeten — moest — gemoeten — долженствовать,
 
-а\) претерито-презентные глаголы имеют особый тип спряжения, который характеризуется употреблением форм сильного прошедшего времени в значении настоящего времени. Сюда относятся модальные глаголы:
-
-kunnen — kon \(мн. ч. konden\) — gekund — мочь; уметь
-
-mogen — mocht — gemocht — мочь, сметь; иметь право; хотеть
-
-willen — wilde, wou \(мн. ч. wilden, wouden\), — gewild — хотеть, moeten — moest — gemoeten — долженствовать,
-
-а также глаголы:
-
-zullen — zou \(мн. ч. zouden\) — форма причастия II утрачена
-
+а также глаголы:  
+zullen — zou \(мн. ч. zouden\) — форма причастия II утрачена _\(zullen употребляется как вспомогательный глагол для образования будущего времени\)_  
 weten — wist — geweten — знать
 
 б\) к глаголам особого типа относятся также вспомогательные глаголы hebben, zijn, worden и глаголы kopen, zoeken, gaan, staan, doen, brengen, denken. Они имеют следующие основные формы:
 
-| hebben | had \(мн. ч. hadden\) | gehad | иметь |
+|  |  |  |  |
 | :--- | :--- | :--- | :--- |
+| hebben | had \(мн. ч. hadden\) | gehad | иметь |
 | zijn | was \(мн. ч. waren\) | geweest | быть |
 | worden | werd \(werden\) | geworden | становиться |
 | kopen | kocht \(kochten\) | gekocht | покупать |
@@ -495,127 +467,45 @@ weten — wist — geweten — знать
 | brengen | bracht \(brachten\) | gebracht | приносить |
 | denken | dacht \(dachten\) | gedacht | думать |
 
-Время
+#### Время \(De tijd, het tempus\)
 
-\(De tijd, het tempus\)
-
-**§ 35. Настоящее время**
-
+**§ 35. Настоящее время**  
 \(Onvoltooid tegenwoordige tijd, presens\)
 
-В настоящем времени как слабые, так и сильные глаголы спрягаются по одному типу.Личные окончания глагола в настоящем времени изъявительного наклонения действитель-
+В настоящем времени как слабые, так и сильные глаголы спрягаются по одному типу.
 
-| ного залога: |  |  |
+Личные окончания глагола в настоящем времени изъявительного наклонения действительного залога:
+
+| лицо | ед. числа | множ. числа |
 | :--- | :--- | :--- |
-| лицо | ед. числа | множ, числа |
-| 1-е | — | -еп |
-| 2-е | 4 | -еп, 4 |
-| 3-е | 4 | -еп |
+| 1-е | — | **-en** |
+| 2-е | **-t** | **-en, -t** |
+| 3-е | **-t** | **-en** |
 
-Образцы спряжения
+**Образцы спряжения**
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left">&#x421;&#x43B;&#x430;&#x431;&#x44B;&#x439; &#x433;&#x43B;&#x430;&#x433;&#x43E;&#x43B;:
-        werken (&#x440;&#x430;&#x431;&#x43E;&#x442;&#x430;&#x442;&#x44C;)</th>
-      <th
-      style="text-align:left">&#x421;&#x438;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x433;&#x43B;&#x430;&#x433;&#x43E;&#x43B;:
-        lezen (&#x447;&#x438;&#x442;&#x430;&#x442;&#x44C;)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">ik</td>
-      <td style="text-align:left">werk</td>
-      <td style="text-align:left">lees</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">jij&#xBB; u&#xBB; gij</td>
-      <td style="text-align:left">werkt1</td>
-      <td style="text-align:left">leest</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">hij, zij, het</td>
-      <td style="text-align:left">werkt</td>
-      <td style="text-align:left">leest</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">wij</td>
-      <td style="text-align:left">werken</td>
-      <td style="text-align:left">lezen</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">jullie</td>
-      <td style="text-align:left">werken, werkt</td>
-      <td style="text-align:left">lezen, leest</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">u, gij</td>
-      <td style="text-align:left">werkt</td>
-      <td style="text-align:left">leest</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p>&#x2022; &#x2022;</p>
-        <p>ZIJ</p>
-      </td>
-      <td style="text-align:left">werken</td>
-      <td style="text-align:left">lezen</td>
-    </tr>
-  </tbody>
-</table>
+|  | Слабый глагол: werken \(работать\) | Сильный глагол: lezen \(читать\) |
+| :--- | :--- | :--- |
+| ik | werk | lees |
+| jij, u, gij | werkt | leest |
+| hij, zij, het | werkt | leest |
+| wij | werken | lezen |
+| jullie | werken, werkt | lezen, leest |
+| u, gij | werkt | leest |
+| zij | werken | lezen |
 
-В интимной форме 2-го лица множественного числа \(jullie\) наряду с личным окончанием 4 употребляется окончание -еп, которое в современном нидерландском языке более употребительно, чем 4 \(особенно в вопросительных предложениях\):
+_Во втором лице ед. числа окончание **-t** отпадает в вопросительных предложениях, где местоимение **je** стоит сразу после глагола, напр.: lach je? — ты смеешься? werk je? — ты работаешь?_
 
-  
-p.p1 {margin: 0.0px 0.0px 5.0px 52.0px; font: 11.0px 'Times New Roman'}  
-p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 24.0px; font: 11.0px 'Times New Roman'}  
-p.p3 {margin: 0.0px 0.0px 5.0px 0.0px; text-align: justify; text-indent: 24.0px; font: 11.0px 'Times New Roman'}  
-p.p4 {margin: 0.0px 0.0px 0.0px 97.5px; font: 11.0px 'Times New Roman'}  
-p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}  
-p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 18.0px; font: 10.0px 'Times New Roman'}  
-p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 10.0px 'Times New Roman'}  
-p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px 'Times New Roman'}  
-p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 18.0px; font: 11.0px 'Times New Roman'}  
-p.p10 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 12.0px; font: 11.0px 'Times New Roman'}  
-p.p11 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 17.0px; font: 11.0px 'Times New Roman'}  
-p.p12 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px 'Times New Roman'}  
-p.p13 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 17.0px; font: 11.0px 'Times New Roman'}  
-p.p14 {margin: 0.0px 0.0px 0.0px 21.6px; font: 11.0px 'Times New Roman'}  
-p.p15 {margin: 0.0px 0.0px 5.0px 0.0px; line-height: 0.1px; font: 12.0px 'Times New Roman'; min-height: 15.0px}  
-p.p16 {margin: 0.0px 0.0px 0.0px 85.4px; font: 11.0px 'Times New Roman'}  
-p.p17 {margin: 0.0px 0.0px 0.0px 27.0px; font: 10.0px 'Times New Roman'}  
-p.p18 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 9.0px; font: 11.0px 'Times New Roman'}  
-p.p19 {margin: 6.0px 0.0px 29.0px 0.0px; text-align: justify; text-indent: 24.0px; font: 10.0px 'Times New Roman'}  
-p.p20 {margin: 0.0px 0.0px 14.0px 0.0px; text-align: center; font: 11.0px 'Times New Roman'}  
-p.p21 {margin: 0.0px 0.0px 10.0px 0.0px; text-align: justify; text-indent: 24.0px; font: 11.0px 'Times New Roman'}  
-p.p22 {margin: 0.0px 0.0px 25.0px 51.0px; text-indent: 1.0px; font: 11.0px 'Times New Roman'}  
-p.p23 {margin: 0.0px 0.0px 16.0px 0.0px; text-align: justify; text-indent: 24.0px; font: 11.0px 'Times New Roman'}  
-p.p24 {margin: 0.0px 0.0px 14.0px 51.0px; text-align: justify; font: 11.0px 'Times New Roman'}  
-p.p25 {margin: 0.0px 0.0px 10.0px 51.0px; text-align: justify; font: 11.0px 'Times New Roman'}  
-p.p26 {margin: 0.0px 0.0px 16.0px 51.0px; text-align: justify; font: 11.0px 'Times New Roman'}  
-p.p27 {margin: 0.0px 0.0px 57.0px 51.0px; text-align: justify; text-indent: 1.0px; font: 11.0px 'Times New Roman'}  
-span.s1 {font: 11.0px 'Times New Roman'}  
-table.t1 {border-collapse: collapse}  
-td.td1 {background-color: \#ffffff; border-style: solid; border-width: 0.5px 1.0px 1.0px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-td.td2 {background-color: \#ffffff; border-style: solid; border-width: 0.5px 0.5px 1.0px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-td.td3 {background-color: \#ffffff; border-style: solid; border-width: 1.0px 1.0px 1.0px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-td.td4 {background-color: \#ffffff; border-style: solid; border-width: 1.0px 0.5px 1.0px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-td.td5 {background-color: \#ffffff; border-style: solid; border-width: 1.0px 1.0px 0.5px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-td.td6 {background-color: \#ffffff; border-style: solid; border-width: 1.0px 0.5px 0.5px 0.5px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-
-
+В интимной форме 2-го лица множественного числа \(jullie\) наряду с личным окончанием **-t** употребляется окончание **-en**, которое в современном нидерландском языке более употребительно, чем **-t** \(особенно в вопросительных предложениях\):  
 jullie werken, werkt, werken jullie?
 
-Если глагольная основа оканчивается на согласный t, то во 2-м лице единственного и множественного числа и 3-м лице единственного числа личное окончание 4 к основе не прибавляется, напр.: zetten \(ставить, сажать\) — ik zet, jij, u, gij zet, hij zet, jullie zetten, zet.
+Если глагольная основа оканчивается на согласный **t**, то во 2-м лице единственного и множественного числа и 3-м лице единственного числа личное окончание **-t** к основе не прибавляется, напр.: zetten \(ставить, сажать\) — ik zet, jij, u, gij zet, hij zet, jullie zetten, zet.
 
-Если же основа глагола оканчивается на d, то к ней прибавляется в этих лицах окончание 4, напр.: baden \(купаться\) — ik baad, jij, u, gij baadt, hij baadt, jullie baden, baadt.
+Если же основа глагола оканчивается на **d**, то к ней прибавляется в этих лицах окончание **-t**, напр.: baden \(купаться\) — ik baad, jij, u, gij baadt, hij baadt, jullie baden, baadt.
 
-Спряжение вспомогательных глаголов в настоящем времени
+**Спряжение вспомогательных глаголов в настоящем времени**
 
-|  | hebben \(иметь\) | zijn \(быть\) | zullen \(вспом. гл. буд. Bp.\) | worden \(становиться\) |
+| \*\*\*\* | hebben \(иметь\) | zijn \(быть\) | zullen \(вспом. гл. буд. вр.\) | worden \(становиться\) |
 | :--- | :--- | :--- | :--- | :--- |
 | ik | heb | ben | zal | word |
 | jij | hebt | bent | zult, zal | wordt |
@@ -630,9 +520,9 @@ jullie werken, werkt, werken jullie?
 
 Форма zal во 2-ом лице ед. и мн. числа носит разговорный характер.
 
-Спряжение претерито-презентных глаголов в настоящем времени
+**Спряжение претерито-презентных глаголов в настоящем времени**
 
-|  | kunnen \(мочь\) | mogen \(мочь, сметь\) | willen \(хотеть\) | moeten \(долженствовать\) | weten \(знать\) |
+| \*\*\*\* | kunnen \(мочь\) | mogen \(мочь, сметь\) | willen \(хотеть\) | moeten \(долженствовать\) | weten \(знать\) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | ik | kan | mag | wil | moet | weet |
 | jij | kunt, kan | mag | wilt, wil | moet | weet |
@@ -645,76 +535,21 @@ jullie werken, werkt, werken jullie?
 | gij | kunt | moogt | wilt | moet | weet |
 | zij | kunnen | mogen | willen | moeten | weten |
 
-1 Во втором лице ед. числа окончание 4 отпадает в вопросительных предложениях, где местоимение je стоит после глагола, напр.: lach je? — ты смеешься?, werk je — ты работаешь?Формы kan, mag, wil во 2-ом лице ед. и мн. числа относятся к разговорному языку, тогда как форма moogt устарела.
+Формы kan, mag, wil во 2-ом лице ед. и мн. числа относятся к разговорному языку, тогда как форма moogt устарела.
 
-Употребление настоящего времени
+**Употребление настоящего времени**
 
-Настоящее время употребляется обычно для выражения действия, происходящего в настоящем \(в данный момент или в течении длительного времени\), напр.:
+Настоящее время употребляется обычно для выражения действия, происходящего в настоящем \(в данный момент или в течении длительного времени\), напр.:  
+de jongen speelt met een bal — мальчик играет в мяч  
+hij werkt als mijnwerker — он работает шахтером
 
-de jongen speelt met een bal — мальчик играет в мяч hij werkt als mijnwerker — он работает шахтером
-
-Настоящее время употребляется также для выражения действия или состояния, происходящего всегда, не приуроченного к определенному времени:
-
-de planeten draaien om de zon — планеты вращаются вокруг Солнца
-
+Настоящее время употребляется также для выражения действия или состояния, происходящего всегда, не приуроченного к определенному времени:  
+de planeten draaien om de zon — планеты вращаются вокруг Солнца  
 de kinderen leren op school lezen en schrijven — дети учатся в школе читать и писать
 
-Довольно часто, обычно в сочетании с наречием времени, настоящее время употребляется в значении будущего:
-
+Довольно часто, обычно в сочетании с наречием времени, настоящее время употребляется в значении будущего:  
 morgen komen zij in Moskou — завтра они приедут в Москву
 
-Настоящее время используется также как стилистический прием для выражения прошедшего времени в связном повествовании \(с целью максимального оживления событий, имевших место в прошлом\);
-
+Настоящее время используется также как стилистический прием для выражения прошедшего времени в связном повествовании \(с целью максимального оживления событий, имевших место в прошлом\):  
 gisteren ga ik langs de straat en daar ontmoet ik mijn vriend — иду я вчера по улице и встречаю своего друга
-
-
-
-
-
-
-
-
-
-
-
-  
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 24.0px; font: 11.0px 'Times New Roman'; min-height: 12.0px}  
-p.p2 {margin: 0.0px 0.0px 2.0px 0.0px; text-align: justify; text-indent: 25.0px; font: 11.0px 'Times New Roman'}  
-p.p3 {margin: 0.0px 0.0px 0.0px 53.0px; font: 11.0px 'Times New Roman'}  
-p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 23.0px; font: 11.0px 'Times New Roman'}  
-p.p5 {margin: 0.0px 0.0px 0.0px 54.0px; font: 11.0px 'Times New Roman'}  
-p.p6 {margin: 0.0px 0.0px 0.0px 52.0px; font: 11.0px 'Times New Roman'}  
-p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 20.0px; font: 10.0px 'Times New Roman'}  
-span.Apple-tab-span {white-space:pre}  
-
-
-1\) Знаменатели дробных числительных образуются с помощью тех же суффиксов -de, -ste, которые используются для образования порядковых числительных. Исключением является числительное een half \(половина\), выраженное особым словом. В качестве числителей дробей употребляются количественные числительные:
-
-V2 een half \(halve\) een honderdste
-
-г/з een derde 1 1 2/3 twee derde
-
-1/4 een vierde 3 \* \* \*/4 drie vierde
-
-Vs een vijfde 6/8 vijf achtste
-
-Vio een tiende 7/20 zeven twintigste и т. д.
-
-2\) Смешанные числа, состоящие из целого числа и дроби 1/2, образуются путем словосло
-
-Р/г anderhalf
-
-2г/2 tweeëneenhalf
-
-1 Zullen употребляется как вспомогательный глагол для образования будущего времени.
-
-
-
-
-
-
-
-
-
-
 
