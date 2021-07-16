@@ -45,7 +45,7 @@ de lauwer \(лавр\) — de lauweren;
 het middel \(средство\) — de middelen;  
 het wonder \(чудо\) — de wonderen и др.
 
-Окончание **-\(e\)n** является наиболее распространенным в литературном языке для образования множественного числа основной массы корневых существительных общего и среднего родов, оканчивающихся на любой согласный \(сонорный или шумный\), и производных, оканчивающихся на суффиксы **-aan**, **-aar** \(частично\), **-de** \(преимущественно\), **-dom**, **-es**, **-ie** \(частично\), **-is**, **-ik**, **-in**, **-ing**, **-ist**, **-ij**, **-ment**, **-nis**, **-schap**, **-sel** \(частично\), **-st**, **-te** \(преимущественно\), **-teit**, **-tie** \(частично\), напр:
+Окончание **-\(e\)n** является наиболее распространенным в литературном языке для образования множественного числа основной массы корневых существительных общего и среднего родов, оканчивающихся на любой согласный \(сонорный или шумный: _cравни однако корневые названия лиц: de maat \(товарищ\) — de maats, de kok \(повар\) — de koks, de oom \(дядя\) — de ooms, de zoon \(сын\) — de zonen, но также: de zoons, а также стяженное de broer \(брат\) — de broers и др._\), и производных, оканчивающихся на суффиксы **-aan**, **-aar** \(частично\), **-de** \(преимущественно\), **-dom**, **-es**, **-ie** \(частично\), **-is**, **-ik**, **-in**, **-ing**, **-ist**, **-ij**, **-ment**, **-nis**, **-schap**, **-sel** \(частично\), **-st**, **-te** \(преимущественно\), **-teit**, **-tie** \(частично\), напр:
 
 <table>
   <thead>
@@ -166,53 +166,37 @@ het wonder \(чудо\) — de wonderen и др.
   </tbody>
 </table>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ПРИМЕЧАНИЕ. В существительных, оканчивающихся в ед. числе на -s или -f, с полудол- гим гласным или дифтонгом \(или с кратким гласным 4-г, I, ш, п\) в корне, согласные s, f переходят во множ, числе соответственно в z, v, напр.: de hoos \(смерч\) — de hozen, het huis \(дом\) — de huizen, de kloof \(трещина\) — de kloven, de golf \(волна\) — de golven и др.
+ПРИМЕЧАНИЕ. В существительных, оканчивающихся в ед. числе на **-s** или **-f**, с полудолгим гласным или дифтонгом \(или с кратким гласным **＋r**, **l**, **m**, **n**\) в корне, согласные **s**, **f** переходят во множ. числе соответственно в **z**, **v**, напр.: de hoos \(смерч\) — de hozen, het huis \(дом\) — de huizen, de kloof \(трещина\) — de kloven, de golf \(волна\) — de golven и др.
 
 Исключением из этого правила являются заимствованные слова типа: de dans \(танец\) — de dansen, de kaars \(свеча\) — de kaarsen, de krans \(венок\)—de kransen, de kous \(чулок\)—de kousen, de saus \(coyc\) — de sausen \(тж. sauzen\) и др.
 
 Особые случаи образования множественного числа существительных
 
-1\) Небольшое число существительных среднего рода образует множественное число с помощью окончания -eren, напр.:
+1\) Небольшое число существительных среднего рода образует множественное число с помощью окончания **-eren**, напр.:
 
 | het kind | \(ребенок\) | de kinderen |
 | :--- | :--- | :--- |
+| het kind | \(ребенок\) | de kinderen |
 | het ei | \(яйцо\) | de eieren |
 | het kalf | \(теленок\) | de kalveren |
 | het lam | \(ягненок\) | de lammeren |
-| het volk | \(народ\) | de volkeren \(чаще de volken\) |
+| het volk | \(народ\) | de volkeren \(_чаще_ de volken\) |
 | het goed | \(товар\) | de goederen |
 | het lied | \(песня\) | de liederen |
 | het rad | \(колесо\) | de raderen |
-| het blad | \(лист\) | de bladeren, blaren \(bladen листы |
-|  |  | книги\) |
+| het blad | \(лист\) | de bladeren, blaren \(bladen листы книги\) |
 | het rund | \(крупный рогатый скот\) | de runderen |
 | het gemoed | \(душа, чувство\) | de gemoederen |
-| het kleed | \(одежда\) | de kleren, klederen \(устар.\) |
+| het kleed | \(одежда\) | de kleren, klederen \(_устар._\) |
 
-ПРИМЕЧАНИЕ. В словах been \(кость\) и hoen \(курица\) после п перед окончанием вставляется d: het been — de beenderen, в отличие от het been \(нога\) — de benen, het hoen — de hoenderen. В разговорном языке и регионально вм. -eren употребляется окончание -ers: de kinders, de eiers, de beenders и т. п.
+ПРИМЕЧАНИЕ. В словах been \(кость\) и hoen \(курица\) после **n** перед окончанием вставляется **d**: het been — de beenderen, в отличие от het been \(нога\) — de benen, het hoen — de hoenderen. В разговорном языке и регионально вм. -eren употребляется окончание -ers: de kinders, de eiers, de beenders и т. п.
 
 2\) Следующие существительные удлиняют во множественном числе краткий корневой гласный, напр.:
 
-| het bad het bedrag | \(купальня, баня, курорт\) \(денежная сумма\) | de baden de bedragen |
+|  |  |  |
 | :--- | :--- | :--- |
+| het bad | \(купальня, баня, курорт\) | de baden |
+| het bedrag | \(денежная сумма\) | de bedragen |
 | het blad | \(лист книги\) | de bladen |
 | het dak | \(крыша\) | de daken |
 | de dag | \(день\) | de dagen |
@@ -220,60 +204,14 @@ het wonder \(чудо\) — de wonderen и др.
 | het gat | \(дыра\) | de gaten |
 | het pad | \(тропа\) | de paden |
 |  het gelag | \(пирушка, счет\) | de gelagen |
-
-1 Сравни однако корневые названия лиц: de maat \(товарищ\) — de maats, de kok \(повар\) — de koks, de oom \(дядя\) — de ooms, de zoon \(сын\) — de zonen, но также: de zoons, а также стяженное de broer \(брат\) — de broers и др.
-
-
-
-
-
-
-
-
-
-
-
-  
-p.p1 {margin: 0.0px 0.0px 4.0px 0.0px; text-align: justify; text-indent: 26.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}  
-p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 0.1px; font: 12.0px 'Times New Roman'; min-height: 15.0px}  
-p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px 'Times New Roman'}  
-p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 43.0px; font: 11.0px 'Times New Roman'}  
-p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 32.0px; font: 11.0px 'Times New Roman'}  
-p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 32.0px; font: 11.0px 'Times New Roman'}  
-p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 43.0px; font: 11.0px 'Times New Roman'}  
-p.p8 {margin: 0.0px 0.0px 4.0px 0.0px; line-height: 0.1px; font: 12.0px 'Times New Roman'; min-height: 15.0px}  
-p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 31.0px; font: 11.0px 'Times New Roman'}  
-p.p10 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 30.0px; font: 11.0px 'Times New Roman'}  
-p.p11 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 31.0px; font: 11.0px 'Times New Roman'}  
-p.p13 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 50.0px; font: 11.0px 'Times New Roman'}  
-p.p14 {margin: 0.0px 0.0px 7.0px 0.0px; text-align: justify; text-indent: 50.0px; font: 11.0px 'Times New Roman'}  
-p.p16 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 36.0px; font: 11.0px 'Times New Roman'}  
-p.p17 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 18.0px; font: 11.0px 'Times New Roman'}  
-p.p18 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}  
-p.p19 {margin: 0.0px 0.0px 7.0px 0.0px; line-height: 0.1px; font: 12.0px 'Times New Roman'; min-height: 15.0px}  
-p.p20 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 24.0px; font: 11.0px 'Times New Roman'}  
-p.p21 {margin: 0.0px 0.0px 16.0px 0.0px; text-align: justify; text-indent: 24.0px; font: 11.0px 'Times New Roman'}  
-p.p22 {margin: 0.0px 0.0px 7.0px 0.0px; text-align: center; font: 11.0px 'Times New Roman'}  
-p.p23 {margin: 0.0px 0.0px 4.0px 0.0px; text-align: justify; text-indent: 50.0px; font: 11.0px 'Times New Roman'}  
-li.li12 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; font: 11.0px 'Times New Roman'}  
-li.li15 {margin: 0.0px 0.0px 4.0px 0.0px; text-align: justify; font: 11.0px 'Times New Roman'}  
-li.li24 {margin: 0.0px 0.0px 6.0px 0.0px; text-align: justify; font: 11.0px 'Times New Roman'}  
-span.s1 {font: 12.0px 'Times New Roman'}  
-span.Apple-tab-span {white-space:pre}  
-table.t1 {border-collapse: collapse}  
-td.td1 {background-color: \#ffffff; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-ol.ol1 {list-style-type: decimal}  
-
-
 | het glas | \(стекло, стакан\) | de glazen |
-| :--- | :--- | :--- |
 | de god | \(идол, божество\) | de góden |
 | het gebed | \(молитва\) | de gebeden |
 | het graf | \(могила\) | de graven |
 | het hol | \(пещера, нора\) | de holen |
 | het lot | \(лотерейный билет\) | de loten |
 | het slot | \(замок, замок\) | de sloten |
-| de slag | \(УДар\) | de slagen |
+| de slag | \(удар\) | de slagen |
 | het vat | \(бочка\) | de vaten |
 | het bevel | \(приказ\) | de bevelen |
 | het spel | \(игра\) | de spelen |
@@ -284,91 +222,62 @@ ol.ol1 {list-style-type: decimal}
 
 3\) Ряд существительных образует множественное число путем изменения корневого гласного:
 
-| de stad | \(город\) | de steden |
+|  |  |  |
 | :--- | :--- | :--- |
+| de stad | \(город\) | de steden |
 | het lid | \(член\) | de leden |
 | het gelid | \(ряд, шеренга\) | de gelederen |
 | het schip | \(корабль\) | de schepen |
 | de smid | \(кузнец\) | de smeden |
 | het rif \(тж. reef\) | \(риф паруса\) | de reven |
-| het spit | \(вертел\) | de speten \(тж. spitten\) |
+| het spit | \(вертел\) | de speten \(_тж._ spitten\) |
 
-1. 4\) Существительные с суффиксом -heid имеют форму множественного числа -heden, напр.:
+4\) Существительные с суффиксом **-heid** имеют форму множественного числа **-heden**, напр.:
 
-de moeilijkheid \(трудность\) de moeilijkheden
-
-de grootheid \(величина\) de grootheden
-
-1. 5\) Односложные существительные на -ее, -ie, -ей и дифтонги принимают во множественном числе окончание -ёп, напр.: de zee \(море\) — zeeën, de knie \(колено\) — knieën, de keu \(кий\) — keuën, de bij \(пчела\) — de bijen, de klauw \(коготь\) — de klauwen, de haai \(акула\) — de haaien.
-2. 6\) Многосложные существительные на -ie принимают во множ, числе окончание -ёп, если ударение в слове падает на конечный слог, напр.: het genie \(гений\) — de genieën. Если же ударение в слове падает на предпоследний \(или первый\) слог, то во множ, числе к существительным присоединяется лишь окончание -п, а над конечным е ставится трема \(••\), напр.: de provincie \(провинция\) — de provinciën и др.; но: de bacterie \(бактерия\) — de bacterieën.
-3. 7\) Существительные на -ое, -о принимают во множественном числе окончание -ien, напр.: de koe \(корова\) — de koeien, de vlo \(блоха\) — de vlooien.
-4. 8\) Сложные существительные со вторым элементом -man, обозначающие профессию, занятие или сословие лица, в большинстве случаев образуют множественное число от другого корня lieden, lui \(люди\), напр.:
-
-| de koopman | \(купец\) | de kooplieden, kooplui |
+|  |  |  |
 | :--- | :--- | :--- |
-| de staatsman | \(государственный дея | de staatslieden |
-|  | тель\) |  |
+| de moeilijkheid | \(трудность\) | de moeilijkheden |
+| de grootheid | \(величина\) | de grootheden |
+
+5\) Односложные существительные на **-ee**, **-ie**, **-eu** дифтонги принимают во множественном числе окончание **-ën**, напр.: de zee \(море\) — zeeën, de knie \(колено\) — knieën, de keu \(кий\) — keuën, de bij \(пчела\) — de bijen, de klauw \(коготь\) — de klauwen, de haai \(акула\) — de haaien.
+
+6\) Многосложные существительные на **-ie** принимают во множ. числе окончание **-ën**, если ударение в слове падает на конечный слог, напр.: het genie \(гений\) — de genieën. Если же ударение в слове падает на предпоследний \(или первый\) слог, то во множ. числе к существительным присоединяется лишь окончание **-n**, а над конечным **е** ставится трема \( ̈\), напр.: de provincie \(провинция\) — de provinciën и др.; но: de bacterie \(бактерия\) — de bacterieën.
+
+7\) Существительные на **-ое**, **-о** принимают во множественном числе окончание **-ien**, напр.: de koe \(корова\) — de koeien, de vlo \(блоха\) — de vlooien.
+
+8\) Сложные существительные со вторым элементом **-man**, обозначающие профессию, занятие или сословие лица, в большинстве случаев образуют множественное число от другого корня lieden, lui \(люди\), напр.:
+
+|  |  |  |
+| :--- | :--- | :--- |
+| de koopman | \(купец\) | de kooplieden, kooplui |
+| de staatsman | \(государственный деятель\) | de staatslieden |
 | de landsman | \(земляк\) | de landslieden и др. |
 
-Исключения: de leenman \(ленник\) — de leenmannen, de blindeman \(слепой\) — de blindemannen, ср. также: de Engelsman \(англичанин\) — de Engelsen, de Fransman \(француз\) — de Fransen.
+_Исключения:_ de leenman \(ленник\) — de leenmannen, de blindeman \(слепой\) — de blindemannen, ср. также: de Engelsman \(англичанин\) — de Engelsen, de Fransman \(француз\) — de Fransen.
 
-В современном разговорном языке от сложных существительных со вторым элементом -man образуется множественное число от корня mens \(человек\), напр.: de politieman \(полицейский\) — de politiemensen, de partijman \(партиец\) — de partijmensen.
+В современном разговорном языке от сложных существительных со вторым элементом **-man** образуется множественное число от корня mens \(человек\), напр.: de politieman \(полицейский\) — de politiemensen, de partijman \(партиец\) — de partijmensen.
 
 Существительные, имеющие две формы множественного числа
 
-1. 1\) Ряд существительных имеет две формы множественного числа, употребляемых параллельно, напр.:
+1\) Ряд существительных имеет две формы множественного числа, употребляемых параллельно, напр.:  
+de appel \(яблоко\) — de appelen _или_ de appels  
+het beginsel \(принцип\) — de beginsels _или_ de beginselen и др.
 
-de appel \(яблоко\) de appelen или de appels
+Формы на **-s** обычно более предпочтительны в живом разговорном языке, а формы на **-en** свойственны письменной форме языка высокого стиля.
 
-het beginsel \(принцип\) de beginsels или de beginselen и др.
+2\) Неправильно образуют множественное число существительные:  
+het kleinood \(драгоценность, сокровище\) — de kleinoden _или_ de kleinodiën  
+de lende \(поясница\) — de lenden _или_ de lendenen
 
-Формы на -s обычно более предпочтительны в живом разговорном языке, а формы на -еп свойственны письменной форме языка высокого стиля.
+3\) В ряде случаев слова, имеющие несколько значений, или слова — омонимы, образуют множественное число по-разному для разных значений, напр.:
 
-1. 2\) Неправильно образуют множественное число существительные:
-
-het kleinood \(драгоценность, сокровище\) de kleinoden или de kleinodiën
-
-de lende \(поясница\) de lenden или de lendenen
-
-1. 3\) В ряде случаев слова, имеющие несколько значений, или слова — омонимы, образуют множественное число по-разному для разных значений, напр.:
-
-
-
-
-
-
-
-
-
-  
-p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; font: 11.0px 'Times New Roman'}  
-p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 9.0px; font: 11.0px 'Times New Roman'}  
-p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 8.0px; font: 11.0px 'Times New Roman'}  
-p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 11.0px; font: 11.0px 'Times New Roman'}  
-p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px 'Times New Roman'}  
-p.p7 {margin: 0.0px 0.0px 23.9px 0.0px; line-height: 0.1px; font: 12.0px 'Times New Roman'; min-height: 15.0px}  
-p.p8 {margin: 0.0px 0.0px 11.0px 0.0px; text-align: center; font: 11.0px 'Times New Roman'}  
-p.p9 {margin: 0.0px 0.0px 8.0px 0.0px; text-align: justify; text-indent: 24.0px; font: 11.0px 'Times New Roman'}  
-p.p10 {margin: 0.0px 0.0px 8.0px 0.0px; font: 11.0px 'Times New Roman'}  
-p.p11 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 25.0px; font: 11.0px 'Times New Roman'}  
-p.p12 {margin: 0.0px 0.0px 8.0px 0.0px; text-align: justify; font: 11.0px 'Times New Roman'}  
-li.li1 {margin: 0.0px 0.0px 6.0px 0.0px; text-align: justify; font: 12.0px 'Times New Roman'; min-height: 15.0px}  
-li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; font: 11.0px 'Times New Roman'}  
-li.li12 {margin: 0.0px 0.0px 8.0px 0.0px; text-align: justify; font: 11.0px 'Times New Roman'}  
-span.s1 {font: 12.0px 'Times New Roman'}  
-span.Apple-tab-span {white-space:pre}  
-table.t1 {border-collapse: collapse}  
-td.td1 {background-color: \#ffffff; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-ol.ol1 {list-style-type: decimal}  
-
-
-1. 
-| de bal | de bals | \(балы\) | de ballen | \(мячи\) |
+|  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- |
+| de bal | de bals | \(балы\) | de ballen | \(мячи\) |
 | de broeper | de broeders | \(братья\) | de broederen | \(братия\) |
 | de heiden | de heidens | \(цыгане\) | de heidenen | \(язычники\) |
 | de hemel | de hemels | \(балдахины\) | de hemelen | \(небеса\) |
-| de wortel | de wortels | \(корни\) | de wortels и de wortelen | \(морковь\) |
+| de wortel | de wortels | \(корни\) | de wortels _и_ de wortelen | \(морковь\) |
 | de letter | de letters | \(буквы\) | de letteren | \(письма, литература\) |
 | het middel | de middels | \(талии\) | de middelen | \(средства\) |
 | de reden | de redens | \(отношения\) | de redenen | \(причины\) |
@@ -376,73 +285,68 @@ ol.ol1 {list-style-type: decimal}
 | de tafel | de tafels | \(столы\) | de tafelen | \(скрижали\) |
 | de vader | de vaders | \(отцы\) | de vaderen | \(предки\) |
 | de knecht | de knechts | \(слуги\) | de knechten | \(кнехты\) |
-| het wapen | de wapens | \(гербы\) | de wapens и de wapenen | \(оружие\) |
+| het wapen | de wapens | \(гербы\) | de wapens _и_ de wapenen | \(оружие\) |
 | het been | de benen | \(ноги\) | de beenderen | \(кости, останки\) |
-| het blad | de bladen | \(листы книги\) | de bladeren и de blaren | \(листья\) |
-| het kleed | de kleden | \(ковры\) | de kleren и de klederen | \(одежды\) |
-| de portier | de portiers | \(швейцары\) | het portier de portieren | \(дверцы\) |
+| het blad | de bladen | \(листы книги\) | de bladeren _и_ de blaren | \(листья\) |
+| het kleed | de kleden | \(ковры\) | de kleren _и_ de klederen | \(одежды\) |
+| de portier | de portiers | \(швейцары\) | het portier _и_ de portieren | \(дверцы\) |
 
 Образование множественного числа заимствованных слов
 
-1. 1\) Большое количество заимствованных слов на -е, -а, -о, -ее, -ie образует множественное число путем присоединения окончаний -s или -\(е\)п, напр.: de dame \(дама\) — de dames, de muze \(муза\) — de muzen.
+1\) Большое количество заимствованных слов на **-е**, **-а**, **-о**, **-ее**, **-ie** образует множественное число путем присоединения окончаний **-s** или **-\(e\)n**, напр.: de dame \(дама\) — de dames, de muze \(муза\) — de muzen.
 
-В словах, оканчивающихся на -а или -о, перед окончанием множественного числа -s ставится апостроф, а в словах, оканчивающихся на -ее или -ie, над гласным е в окончании множественного числа -еп ставится трема, показывающая, что это е не сливается в произношении с предыдущим гласным, напр.:
+В словах, оканчивающихся на **-а** или **-о**, перед окончанием множественного числа **-s** ставится апостроф, а в словах, оканчивающихся на **-ее** или **-ie**, над гласным **е** в окончании множественного числа **-en** ставится трема, показывающая, что это **е** не сливается в произношении с предыдущим гласным, напр.:  
+het drama \(драма\) — de drama’s  
+de piano \(пианино\) — de piano’s  
+de theorie \(теория\) — de theorieën  
+het, de idee \(идея\) — de ideeën, idees
 
-de drama’s
+2\) Слова с суффиксом **-ier** образуют множественное число путем присоединения окончания **-s**, когда они обозначают действующих лиц, и **-en**, когда они обозначают предметы и отвлеченные понятия, напр.:  
+de rivier \(река\) — de rivieren  
+het formulier \(формуляр\) — de formulieren  
+de manier \(манера\) — de manieren  
+de tuinier \(садовник\) — de tuiniers  
+de grenadier \(гренадер\) — de grenadiers
 
-de piano’s de theorieën
+_Исключение:_ de officier \(офицер\) — de officieren \(_тж._ officiers\).
 
-de ideeën, idees
+3\) Латинские заимствования с суффиксом **-us** могут иметь наряду с нидерландской формой множественного числа **\(-s\)** также латинскую форму на **-a**, напр.:  
+het museum \(музей\) — de museums, de musea  
+het gymnasium \(гимназия\) — de gymnasiums, de gymnasia  
+het centrum \(центр\) — de centrums, de centren, de centra
 
-1. 2\) Слова с суффиксом -ier образуют множественное число путем присоединения окончания -s, когда они обозначают действующих лиц, и -еп, когда они обозначают предметы и отвлеченные понятия, напр.:
+4\) Латинские заимствования на **-us** сохраняют латинскую форму множественного числа на **-i**, если они обозначают лица, и приобретают окончание **-en**, если они обозначают неодушевленные предметы, напр.:  
+de criticus \(критик\) — de critici  
+de medicus \(медик\) — de medici  
+de musicus \(музыкант\) — de musici  
+het, de circus \(цирк\) — de circussen  
+de cursus \(курс\) — de cursussen  
+de rebus \(ребус\) — de rebussen
 
-Исключение: de officier \(офицер\) de officieren \(тж. officiers\).
-
-1. 3\) Латинские заимствования с суффиксом -ши могут иметь наряду с нидерландской формой множественного числа \(-s\) также латинскую форму на -а, напр.:
-
-de museums, de musea
-
-de gymnasiums, de gymnasia
-
-de centrums, de centren, de centra
-
-
-
-
-
-  
-p.p1 {margin: 0.0px 0.0px 4.0px 0.0px; text-align: justify; text-indent: 26.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}  
-p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; font: 11.0px 'Times New Roman'}  
-p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 25.0px; font: 11.0px 'Times New Roman'}  
-p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 3.9px; font: 11.0px 'Times New Roman'}  
-p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 0.1px; font: 12.0px 'Times New Roman'; min-height: 15.0px}  
-p.p6 {margin: 0.0px 0.0px 0.0px 261.0px; text-indent: 1.0px; font: 11.0px 'Times New Roman'}  
-p.p7 {margin: 0.0px 0.0px 22.0px 0.0px; text-align: justify; text-indent: 23.0px; font: 11.0px 'Times New Roman'}  
-p.p8 {margin: 0.0px 0.0px 11.0px 0.0px; text-align: center; font: 11.0px 'Times New Roman'}  
-p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 23.0px; font: 11.0px 'Times New Roman'}  
-p.p10 {margin: 0.0px 0.0px 4.0px 0.0px; font: 11.0px 'Times New Roman'}  
-p.p11 {margin: 0.0px 0.0px 0.0px 52.0px; text-indent: 1.0px; font: 11.0px 'Times New Roman'}  
-p.p12 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 7.0px; font: 11.0px 'Times New Roman'}  
-p.p13 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px 'Times New Roman'}  
-p.p14 {margin: 0.0px 0.0px 4.0px 0.0px; line-height: 0.1px; font: 12.0px 'Times New Roman'; min-height: 15.0px}  
-p.p15 {margin: 0.0px 0.0px 0.0px 52.0px; font: 11.0px 'Times New Roman'}  
-p.p16 {margin: 0.0px 0.0px 4.0px 52.0px; font: 11.0px 'Times New Roman'}  
-p.p17 {margin: 0.0px 0.0px 19.0px 0.0px; text-align: justify; text-indent: 23.0px; font: 11.0px 'Times New Roman'}  
-p.p18 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 11.0px 'Times New Roman'}  
-p.p19 {margin: 0.0px 0.0px 4.0px 0.0px; text-align: justify; text-indent: 23.0px; font: 11.0px 'Times New Roman'}  
-li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; font: 11.0px 'Times New Roman'}  
-span.s1 {font: 12.0px 'Times New Roman'}  
-span.Apple-tab-span {white-space:pre}  
-table.t1 {border-collapse: collapse}  
-td.td1 {background-color: \#ffffff; border-style: solid; border-width: 1.0px 1.0px 1.0px 1.0px; border-color: \#bfbfbf \#bfbfbf \#bfbfbf \#bfbfbf; padding: 0.0px 5.0px 0.0px 5.0px}  
-ol.ol1 {list-style-type: decimal}  
-
-
-1. 4\) Латинские заимствования на -us сохраняют латинскую форму множественного числа на -i, если они обозначают лица, и приобретают окончание -еп, если они обозначают неодушевленные предметы, напр.:
-
-Существительные на -is образуют множественное число двояко: путем присоединения окончания -еп и -es, напр.:
+Существительные на **-is** образуют множественное число двояко: путем присоединения окончания **-en** и **-es**, напр.:  
+de basis \(базис, база\) — de basissen, de bases  
+de dosis \(доза\) — de dosissen, de doses  
+de crisis \(кризис\) — de crisissen, de crises
 
 Ср. также: de index \(индекс\) — de indexen, de indices.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Существительные, употребляемые только в множественном числе
+
+Сюда относятся: собирательные существительные, названия ряда болезней и т.п.
 
 de hersens, hersenen—мозг de lieden — люди
 
